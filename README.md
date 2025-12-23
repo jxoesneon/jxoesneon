@@ -15,6 +15,11 @@
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   </p>
+  <p>
+    <a href="https://ko-fi.com/jxoesneon">
+      <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" />
+    </a>
+  </p>
 </div>
 
 ---
