@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm jxoesneon 👋</h1>
-  <p>Self-taught developer with a passion for building decentralized systems and elegant tools.</p>
+  <p>Self-taught developer building decentralized systems and AI-powered tools.</p>
 
   <p>
     <a href="https://github.com/jxoesneon/IPFS">
@@ -19,29 +19,43 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Latest Releases
+
+| Project                                               | Version   | Description                                                         |
+| :---------------------------------------------------- | :-------- | :------------------------------------------------------------------ |
+| **[FerroTeX](https://github.com/jxoesneon/FerroTeX)** | `v0.18.0` | Research-driven LaTeX language platform for docs-first engineering. |
+| **[UE5-MCP](https://github.com/jxoesneon/UE5-MCP)**   | `v0.6.0`  | MCP server for Unreal Engine 5 automation and control.              |
+| **[IPFS](https://github.com/jxoesneon/IPFS)**         | `v1.5.1`  | Production-ready IPFS implementation in Dart.                       |
+| **[dart_lz4](https://github.com/jxoesneon/dart_lz4)** | `v1.0.0`  | Pure Dart LZ4/LZ4HC compression library.                            |
+
+---
+
+## 🤖 MCP Ecosystem
+
+I build **Model Context Protocol (MCP)** servers to bridge AI agents with powerful desktop tools.
+
+- **[ultramac-mcp](https://github.com/jxoesneon/ultramac-mcp)**: The premier server for macOS desktop automation.
+- **[blender-mcp](https://github.com/jxoesneon/blender-mcp)**: Connects Blender to Claude AI for prompt-assisted 3D modeling.
+- **[godot-mcp](https://github.com/jxoesneon/godot-mcp)**: Interface with the Godot Game Engine.
+- **[mcp-server-gemini-image-generator](https://github.com/jxoesneon/mcp-server-gemini-image-generator)**: AI image generation using Gemini Flash.
+
+---
+
+## ✨ Core Libraries
 
 ### 🌌 [IPFS](https://github.com/jxoesneon/IPFS)
 
 > **Production-ready IPFS implementation in Dart.**
->
-> A robust library bringing the InterPlanetary File System to Dart and Flutter. Supports full protocol features, P2P networking, gateway mode, and offline capabilities.
+> Supports full protocol features, P2P networking, gateway mode, and offline capabilities.
 >
 > ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 
 ### 🎬 [SeedSphere](https://github.com/jxoesneon/SeedSphere)
 
 > **Stremio Tracker Addon & Health Validator**
+> Verify tracker health and boost content availability.
 >
-> A robust addon for verifying tracker health and boosting content availability. Built with modern web standards and deployed on Fly.io.
->
-> ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
-
-### Others
-
-- **[pynance](https://github.com/jxoesneon/pynance)**: Financial data retrieval and analysis tool for automation.
-- **[hermesbot](https://github.com/jxoesneon/hermesbot)**: Real-time notification system for critical updates.
-- **[e2csv](https://github.com/jxoesneon/e2csv)**: Webex bot for converting emails to CSVs.
+> ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
