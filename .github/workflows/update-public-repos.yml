@@ -1,0 +1,42 @@
+name: Update Public Repositories
+
+"on":
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Update README public repos section
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/update_public_repos.py --owner "${{ github.repository_owner }}" --readme README.md
+
+      - name: Commit and push (if changed)
+        run: |
+          if git diff --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+          git commit -m "chore: update public repos list"
+          git push
