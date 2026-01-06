@@ -30,7 +30,7 @@
 
 | Project | Version | Description |
 | :------ | :------ | :---------- |
-| **[SeedSphere](https://github.com/jxoesneon/SeedSphere)** | `v1.9.39` | v1.9.39 |
+| **[SeedSphere](https://github.com/jxoesneon/SeedSphere)** | `v1.9.49` | v1.9.49 |
 | **[FerroTeX](https://github.com/jxoesneon/FerroTeX)** | `v0.21.0` | v0.21.0 |
 | **[IPFS](https://github.com/jxoesneon/IPFS)** | `v1.7.3` | v1.7.3 - Proactive Windows Setup |
 | **[dart_lz4](https://github.com/jxoesneon/dart_lz4)** | `v1.0.0` | v1.0.0 |
@@ -62,12 +62,12 @@ I build **Model Context Protocol (MCP)** servers to bridge AI agents with powerf
 ### [IPFS](https://github.com/jxoesneon/IPFS)
 
 > Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms.
-> _Dart • 4★_
+> _Dart • 5★_
 
 ### [SeedSphere](https://github.com/jxoesneon/SeedSphere)
 
 > SeedSphere Stremio Tracker Addon - robust tracker health validation, recent boosts panel, Fly.io deployment
-> _Dart • 3★_
+> _Dart • 4★_
 
 ### [FerroTeX](https://github.com/jxoesneon/FerroTeX)
 
@@ -105,9 +105,10 @@ Public repositories: **23**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
-| [SeedSphere](https://github.com/jxoesneon/SeedSphere) | SeedSphere Stremio Tracker Addon - robust tracker health validation, recent boosts panel, Fly.io deployment | Dart | 3 | 2026-01-05 |
-| [tectonic](https://github.com/jxoesneon/tectonic) (fork) | A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive. | C | 0 | 2026-01-05 |
-| [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 4 | 2026-01-05 |
+| [SeedSphere](https://github.com/jxoesneon/SeedSphere) | SeedSphere Stremio Tracker Addon - robust tracker health validation, recent boosts panel, Fly.io deployment | Dart | 4 | 2026-01-06 |
+| [tectonic](https://github.com/jxoesneon/tectonic) (fork) | A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive. | C | 0 | 2026-01-06 |
+| [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 5 | 2026-01-06 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-01-06 |
 | [FerroTeX](https://github.com/jxoesneon/FerroTeX) | FerroTeX: research-driven LaTeX language platform + TeX build observability (docs/spec-first). | C | 0 | 2026-01-04 |
 | [LayoutKit](https://github.com/jxoesneon/LayoutKit) (fork) | An application that makes it easier to create Nintendo Switch Layouts. | Vue | 0 | 2025-12-25 |
 | [jxoesneon.github.io](https://github.com/jxoesneon/jxoesneon.github.io) |  | JavaScript | 0 | 2025-12-23 |
@@ -120,7 +121,6 @@ Public repositories: **23**
 | [mcp-server-gemini-image-generator](https://github.com/jxoesneon/mcp-server-gemini-image-generator) (fork) | MCP server for AI image generation and editing using Google's Gemini Flash models. Create images from text prompts with intelligent filename generation and strict text exclusion. Supports text-to-image generation with future expansion to image editing capabilities. | Python | 0 | 2025-12-23 |
 | [pynance](https://github.com/jxoesneon/pynance) |  | Python | 0 | 2025-12-23 |
 | [pychem](https://github.com/jxoesneon/pychem) | A compilation of chemistry tools |  | 0 | 2025-12-23 |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez |  | 0 | 2025-12-23 |
 | [hermesbot](https://github.com/jxoesneon/hermesbot) | A timely notifier. | Python | 0 | 2025-12-23 |
 | [EvoSim](https://github.com/jxoesneon/EvoSim) | Evolutionary simulation engine in TypeScript | TypeScript | 0 | 2025-12-23 |
 | [e2csv](https://github.com/jxoesneon/e2csv) | Webex Team bot to convert a list of emails to a csv file |  | 0 | 2025-12-23 |
