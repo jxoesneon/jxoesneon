@@ -30,9 +30,9 @@
 
 | Project | Version | Description |
 | :------ | :------ | :---------- |
+| **[FerroTeX](https://github.com/jxoesneon/FerroTeX)** | `v0.22.0` | v0.22.0 |
 | **[SeedSphere](https://github.com/jxoesneon/SeedSphere)** | `v2.1.7` | v2.1.7 |
 | **[IPFS](https://github.com/jxoesneon/IPFS)** | `v1.8.3` | v1.8.3 |
-| **[FerroTeX](https://github.com/jxoesneon/FerroTeX)** | `v0.21.0` | v0.21.0 |
 | **[dart_lz4](https://github.com/jxoesneon/dart_lz4)** | `v1.0.0` | v1.0.0 |
 
 <!-- END LATEST_RELEASES -->
@@ -72,7 +72,7 @@ I build **Model Context Protocol (MCP)** servers to bridge AI agents with powerf
 ### [FerroTeX](https://github.com/jxoesneon/FerroTeX)
 
 > FerroTeX: research-driven LaTeX language platform + TeX build observability (docs/spec-first).
-> _C • 0★_
+> _HTML • 0★_
 
 <!-- END CORE_LIBRARIES -->
 
@@ -105,11 +105,11 @@ Public repositories: **23**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
+| [FerroTeX](https://github.com/jxoesneon/FerroTeX) | FerroTeX: research-driven LaTeX language platform + TeX build observability (docs/spec-first). | HTML | 0 | 2026-01-16 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-01-16 |
 | [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 5 | 2026-01-15 |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-01-15 |
 | [SeedSphere](https://github.com/jxoesneon/SeedSphere) | SeedSphere Stremio Tracker Addon - robust tracker health validation, recent boosts panel, Fly.io deployment | Dart | 4 | 2026-01-14 |
 | [tectonic](https://github.com/jxoesneon/tectonic) (fork) | A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive. | C | 0 | 2026-01-12 |
-| [FerroTeX](https://github.com/jxoesneon/FerroTeX) | FerroTeX: research-driven LaTeX language platform + TeX build observability (docs/spec-first). | C | 0 | 2026-01-04 |
 | [LayoutKit](https://github.com/jxoesneon/LayoutKit) (fork) | An application that makes it easier to create Nintendo Switch Layouts. | Vue | 0 | 2025-12-25 |
 | [jxoesneon.github.io](https://github.com/jxoesneon/jxoesneon.github.io) |  | JavaScript | 0 | 2025-12-23 |
 | [.github](https://github.com/jxoesneon/.github) |  |  | 0 | 2025-12-23 |
