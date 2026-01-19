@@ -46,10 +46,10 @@ I build **Model Context Protocol (MCP)** servers to bridge AI agents with powerf
 <!-- BEGIN MCP_ECOSYSTEM -->
 
 - **[ultramac-mcp](https://github.com/jxoesneon/ultramac-mcp)**: The premier Model Context Protocol (MCP) server for macOS desktop automation. Enterprise-grade, secure, and fully verified.
+- **[UE5-MCP](https://github.com/jxoesneon/UE5-MCP)**: MCP for Unreal Engine 5
 - **[godot-mcp](https://github.com/jxoesneon/godot-mcp)**: MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output.
 - **[blender-mcp](https://github.com/jxoesneon/blender-mcp)**: Blender Model Context Protocol Integration - Connects Blender to Claude AI for prompt-assisted 3D modeling.
 - **[mcp-server-gemini-image-generator](https://github.com/jxoesneon/mcp-server-gemini-image-generator)**: MCP server for AI image generation and editing using Google's Gemini Flash models. Create images from text prompts with intelligent filename generation and strict text exclusion. Supports text-to-image generation with future expansion to image editing capabilities.
-- **[UE5-MCP](https://github.com/jxoesneon/UE5-MCP)**: MCP for Unreal Engine 5
 
 <!-- END MCP_ECOSYSTEM -->
 
@@ -62,7 +62,7 @@ I build **Model Context Protocol (MCP)** servers to bridge AI agents with powerf
 ### [IPFS](https://github.com/jxoesneon/IPFS)
 
 > Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms.
-> _Dart • 5★_
+> _Dart • 6★_
 
 ### [SeedSphere](https://github.com/jxoesneon/SeedSphere)
 
@@ -105,9 +105,10 @@ Public repositories: **23**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-01-17 |
+| [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 6 | 2026-01-18 |
+| [UE5-MCP](https://github.com/jxoesneon/UE5-MCP) (fork) | MCP for Unreal Engine 5 | Python | 1 | 2026-01-18 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-01-18 |
 | [FerroTeX](https://github.com/jxoesneon/FerroTeX) | FerroTeX: research-driven LaTeX language platform + TeX build observability (docs/spec-first). | HTML | 0 | 2026-01-16 |
-| [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 5 | 2026-01-15 |
 | [SeedSphere](https://github.com/jxoesneon/SeedSphere) | SeedSphere Stremio Tracker Addon - robust tracker health validation, recent boosts panel, Fly.io deployment | Dart | 4 | 2026-01-14 |
 | [tectonic](https://github.com/jxoesneon/tectonic) (fork) | A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive. | C | 0 | 2026-01-12 |
 | [LayoutKit](https://github.com/jxoesneon/LayoutKit) (fork) | An application that makes it easier to create Nintendo Switch Layouts. | Vue | 0 | 2025-12-25 |
@@ -126,7 +127,6 @@ Public repositories: **23**
 | [e2csv](https://github.com/jxoesneon/e2csv) | Webex Team bot to convert a list of emails to a csv file |  | 0 | 2025-12-23 |
 | [Dall-E-3-Client](https://github.com/jxoesneon/Dall-E-3-Client) |  | Python | 0 | 2025-12-23 |
 | [ultramac-mcp](https://github.com/jxoesneon/ultramac-mcp) | The premier Model Context Protocol (MCP) server for macOS desktop automation. Enterprise-grade, secure, and fully verified. | TypeScript | 0 | 2025-12-22 |
-| [UE5-MCP](https://github.com/jxoesneon/UE5-MCP) (fork) | MCP for Unreal Engine 5 | Python | 0 | 2025-12-19 |
 | [dart_lz4](https://github.com/jxoesneon/dart_lz4) | Pure Dart LZ4 + LZ4HC (block + frame) with streaming support and pub.dev publishing via CI. | Dart | 0 | 2025-12-19 |
 
 <!-- END PUBLIC_REPOS -->
