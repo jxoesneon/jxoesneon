@@ -72,7 +72,7 @@ I build **Model Context Protocol (MCP)** servers to bridge AI agents with powerf
 ### [FerroTeX](https://github.com/jxoesneon/FerroTeX)
 
 > FerroTeX: research-driven LaTeX language platform + TeX build observability (docs/spec-first).
-> _HTML • 0★_
+> _HTML • 1★_
 
 <!-- END CORE_LIBRARIES -->
 
@@ -105,11 +105,11 @@ Public repositories: **23**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
-| [SeedSphere](https://github.com/jxoesneon/SeedSphere) | SeedSphere Stremio Tracker Addon - robust tracker health validation, recent boosts panel, Fly.io deployment | Dart | 4 | 2026-02-04 |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-02-04 |
+| [SeedSphere](https://github.com/jxoesneon/SeedSphere) | SeedSphere Stremio Tracker Addon - robust tracker health validation, recent boosts panel, Fly.io deployment | Dart | 4 | 2026-02-06 |
+| [FerroTeX](https://github.com/jxoesneon/FerroTeX) | FerroTeX: research-driven LaTeX language platform + TeX build observability (docs/spec-first). | HTML | 1 | 2026-02-05 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-02-05 |
 | [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 8 | 2026-02-03 |
 | [UE5-MCP](https://github.com/jxoesneon/UE5-MCP) (fork) | MCP for Unreal Engine 5 | Python | 1 | 2026-01-18 |
-| [FerroTeX](https://github.com/jxoesneon/FerroTeX) | FerroTeX: research-driven LaTeX language platform + TeX build observability (docs/spec-first). | HTML | 0 | 2026-01-16 |
 | [tectonic](https://github.com/jxoesneon/tectonic) (fork) | A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive. | C | 0 | 2026-01-12 |
 | [LayoutKit](https://github.com/jxoesneon/LayoutKit) (fork) | An application that makes it easier to create Nintendo Switch Layouts. | Vue | 0 | 2025-12-25 |
 | [jxoesneon.github.io](https://github.com/jxoesneon/jxoesneon.github.io) |  | JavaScript | 0 | 2025-12-23 |
