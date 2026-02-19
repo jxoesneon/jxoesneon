@@ -30,7 +30,7 @@
 
 | Project | Version | Description |
 | :------ | :------ | :---------- |
-| **[SeedSphere](https://github.com/jxoesneon/SeedSphere)** | `v2.1.8` | v2.1.8 |
+| **[SeedSphere](https://github.com/jxoesneon/SeedSphere)** | `v2.2.0` | v2.2.0 |
 | **[IPFS](https://github.com/jxoesneon/IPFS)** | `v1.9.1` | v1.9.1: Protobuf 6.0.0 Compatibility |
 | **[FerroTeX](https://github.com/jxoesneon/FerroTeX)** | `v0.22.0` | v0.22.0 |
 | **[dart_lz4](https://github.com/jxoesneon/dart_lz4)** | `v1.0.0` | v1.0.0 |
@@ -62,7 +62,7 @@ I build **Model Context Protocol (MCP)** servers to bridge AI agents with powerf
 ### [IPFS](https://github.com/jxoesneon/IPFS)
 
 > Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms.
-> _Dart • 8★_
+> _Dart • 9★_
 
 ### [SeedSphere](https://github.com/jxoesneon/SeedSphere)
 
@@ -72,7 +72,7 @@ I build **Model Context Protocol (MCP)** servers to bridge AI agents with powerf
 ### [FerroTeX](https://github.com/jxoesneon/FerroTeX)
 
 > FerroTeX: research-driven LaTeX language platform + TeX build observability (docs/spec-first).
-> _HTML • 1★_
+> _HTML • 2★_
 
 <!-- END CORE_LIBRARIES -->
 
@@ -105,10 +105,10 @@ Public repositories: **23**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
-| [SeedSphere](https://github.com/jxoesneon/SeedSphere) | SeedSphere Stremio Tracker Addon - robust tracker health validation, recent boosts panel, Fly.io deployment | Dart | 4 | 2026-02-17 |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-02-17 |
-| [FerroTeX](https://github.com/jxoesneon/FerroTeX) | FerroTeX: research-driven LaTeX language platform + TeX build observability (docs/spec-first). | HTML | 1 | 2026-02-05 |
-| [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 8 | 2026-02-03 |
+| [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 9 | 2026-02-18 |
+| [SeedSphere](https://github.com/jxoesneon/SeedSphere) | SeedSphere Stremio Tracker Addon - robust tracker health validation, recent boosts panel, Fly.io deployment | Dart | 4 | 2026-02-18 |
+| [FerroTeX](https://github.com/jxoesneon/FerroTeX) | FerroTeX: research-driven LaTeX language platform + TeX build observability (docs/spec-first). | HTML | 2 | 2026-02-18 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-02-18 |
 | [UE5-MCP](https://github.com/jxoesneon/UE5-MCP) (fork) | MCP for Unreal Engine 5 | Python | 1 | 2026-01-18 |
 | [tectonic](https://github.com/jxoesneon/tectonic) (fork) | A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive. | C | 0 | 2026-01-12 |
 | [LayoutKit](https://github.com/jxoesneon/LayoutKit) (fork) | An application that makes it easier to create Nintendo Switch Layouts. | Vue | 0 | 2025-12-25 |
