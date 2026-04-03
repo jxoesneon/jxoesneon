@@ -105,10 +105,10 @@ Public repositories: **25**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
+| [MindWeave](https://github.com/jxoesneon/MindWeave) |  | Dart | 0 | 2026-04-02 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-04-02 |
 | [claw-code](https://github.com/jxoesneon/claw-code) (fork) | The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after publication. Better Harness Tools, not merely storing the archive of leaked Claude Code but make real things done. Now rewriting in Rust using oh-my-codex. |  | 0 | 2026-04-02 |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-04-01 |
 | [tectonic](https://github.com/jxoesneon/tectonic) (fork) | A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive. | C | 1 | 2026-03-31 |
-| [MindWeave](https://github.com/jxoesneon/MindWeave) |  | Dart | 0 | 2026-03-31 |
 | [SeedSphere](https://github.com/jxoesneon/SeedSphere) | SeedSphere Stremio Tracker Addon - robust tracker health validation, recent boosts panel, Fly.io deployment | Dart | 4 | 2026-03-20 |
 | [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 9 | 2026-03-19 |
 | [FerroTeX](https://github.com/jxoesneon/FerroTeX) | FerroTeX: research-driven LaTeX language platform + TeX build observability (docs/spec-first). | HTML | 3 | 2026-02-25 |
