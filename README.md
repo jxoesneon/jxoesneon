@@ -107,7 +107,7 @@ Public repositories: **26**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-04-06 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-04-07 |
 | [gemini-audio-mcp](https://github.com/jxoesneon/gemini-audio-mcp) | A high-performance Model Context Protocol (MCP) server in Rust that generates infinite, context-aware environmental soundscapes and professional audio using Gemini 2.0 Multimodal Live API. | Rust | 0 | 2026-04-05 |
 | [FerroTeX](https://github.com/jxoesneon/FerroTeX) | FerroTeX: research-driven LaTeX language platform + TeX build observability (docs/spec-first). | HTML | 3 | 2026-04-04 |
 | [dart_lz4](https://github.com/jxoesneon/dart_lz4) | Pure Dart LZ4 + LZ4HC (block + frame) with streaming support and pub.dev publishing via CI. | Dart | 0 | 2026-04-04 |
