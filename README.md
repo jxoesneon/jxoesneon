@@ -30,6 +30,7 @@
 
 | Project | Version | Description |
 | :------ | :------ | :---------- |
+| **[mempalace-rs](https://github.com/jxoesneon/mempalace-rs)** | `v0.2.0` | v0.2.0: AAAK v3.2 Evolution Hardening |
 | **[gemini-audio-mcp](https://github.com/jxoesneon/gemini-audio-mcp)** | `v0.1.1` | v0.1.1 |
 | **[FerroTeX](https://github.com/jxoesneon/FerroTeX)** | `v0.23.1` | v0.23.1: Metadata & Stability Patch |
 | **[SeedSphere](https://github.com/jxoesneon/SeedSphere)** | `v2.3.12` | v2.3.12 |
@@ -103,11 +104,12 @@ I'm focused on delivering a high-quality **IPFS** ecosystem for Dart/Flutter on 
 ## 📚 Public Repositories
 <!-- BEGIN PUBLIC_REPOS -->
 
-Public repositories: **26**
+Public repositories: **27**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-04-07 |
+| [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | Rust | 2 | 2026-04-09 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-04-08 |
 | [gemini-audio-mcp](https://github.com/jxoesneon/gemini-audio-mcp) | A high-performance Model Context Protocol (MCP) server in Rust that generates infinite, context-aware environmental soundscapes and professional audio using Gemini 2.0 Multimodal Live API. | Rust | 0 | 2026-04-05 |
 | [FerroTeX](https://github.com/jxoesneon/FerroTeX) | FerroTeX: research-driven LaTeX language platform + TeX build observability (docs/spec-first). | HTML | 3 | 2026-04-04 |
 | [dart_lz4](https://github.com/jxoesneon/dart_lz4) | Pure Dart LZ4 + LZ4HC (block + frame) with streaming support and pub.dev publishing via CI. | Dart | 0 | 2026-04-04 |
