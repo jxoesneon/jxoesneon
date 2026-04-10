@@ -30,9 +30,9 @@
 
 | Project | Version | Description |
 | :------ | :------ | :---------- |
-| **[mempalace-rs](https://github.com/jxoesneon/mempalace-rs)** | `v0.2.0` | v0.2.0: AAAK v3.2 Evolution Hardening |
+| **[mempalace-rs](https://github.com/jxoesneon/mempalace-rs)** | `v0.4.0` | Release v0.4.0: Full Parity Sync & Production Hardening |
+| **[FerroTeX](https://github.com/jxoesneon/FerroTeX)** | `v0.24.0` | v0.24.0 |
 | **[gemini-audio-mcp](https://github.com/jxoesneon/gemini-audio-mcp)** | `v0.1.1` | v0.1.1 |
-| **[FerroTeX](https://github.com/jxoesneon/FerroTeX)** | `v0.23.1` | v0.23.1: Metadata & Stability Patch |
 | **[SeedSphere](https://github.com/jxoesneon/SeedSphere)** | `v2.3.12` | v2.3.12 |
 | **[IPFS](https://github.com/jxoesneon/IPFS)** | `v1.9.5` | v1.9.5: Windows Path Normalization & Crypto Fixes |
 | **[dart_lz4](https://github.com/jxoesneon/dart_lz4)** | `v1.0.0` | v1.0.0 |
@@ -47,8 +47,8 @@ I build **Model Context Protocol (MCP)** servers to bridge AI agents with powerf
 
 <!-- BEGIN MCP_ECOSYSTEM -->
 
-- **[gemini-audio-mcp](https://github.com/jxoesneon/gemini-audio-mcp)**: A high-performance Model Context Protocol (MCP) server in Rust that generates infinite, context-aware environmental soundscapes and professional audio using Gemini 2.0 Multimodal Live API.
 - **[ultramac-mcp](https://github.com/jxoesneon/ultramac-mcp)**: The premier Model Context Protocol (MCP) server for macOS desktop automation. Enterprise-grade, secure, and fully verified.
+- **[gemini-audio-mcp](https://github.com/jxoesneon/gemini-audio-mcp)**: A high-performance Model Context Protocol (MCP) server in Rust that generates infinite, context-aware environmental soundscapes and professional audio using Gemini 2.0 Multimodal Live API.
 - **[UE5-MCP](https://github.com/jxoesneon/UE5-MCP)**: MCP for Unreal Engine 5
 - **[mcp-server-gemini-image-generator](https://github.com/jxoesneon/mcp-server-gemini-image-generator)**: MCP server for AI image generation and editing using Google's Gemini Flash models. Create images from text prompts with intelligent filename generation and strict text exclusion. Supports text-to-image generation with future expansion to image editing capabilities.
 - **[blender-mcp](https://github.com/jxoesneon/blender-mcp)**: Blender Model Context Protocol Integration - Connects Blender to Claude AI for prompt-assisted 3D modeling.
@@ -67,15 +67,15 @@ I build **Model Context Protocol (MCP)** servers to bridge AI agents with powerf
 > Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms.
 > _Dart • 9★_
 
+### [mempalace-rs](https://github.com/jxoesneon/mempalace-rs)
+
+> A high-performance, local, offline-first AI memory system built in Rust
+> _Rust • 6★_
+
 ### [SeedSphere](https://github.com/jxoesneon/SeedSphere)
 
 > SeedSphere Stremio Tracker Addon - robust tracker health validation, recent boosts panel, Fly.io deployment
 > _Dart • 4★_
-
-### [FerroTeX](https://github.com/jxoesneon/FerroTeX)
-
-> FerroTeX: research-driven LaTeX language platform + TeX build observability (docs/spec-first).
-> _HTML • 3★_
 
 <!-- END CORE_LIBRARIES -->
 
@@ -108,10 +108,11 @@ Public repositories: **27**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
-| [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | Rust | 2 | 2026-04-09 |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-04-08 |
+| [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | Rust | 6 | 2026-04-10 |
+| [FerroTeX](https://github.com/jxoesneon/FerroTeX) | FerroTeX: research-driven LaTeX language platform + TeX build observability (docs/spec-first). | HTML | 3 | 2026-04-09 |
+| [ultramac-mcp](https://github.com/jxoesneon/ultramac-mcp) | The premier Model Context Protocol (MCP) server for macOS desktop automation. Enterprise-grade, secure, and fully verified. | TypeScript | 0 | 2026-04-09 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-04-09 |
 | [gemini-audio-mcp](https://github.com/jxoesneon/gemini-audio-mcp) | A high-performance Model Context Protocol (MCP) server in Rust that generates infinite, context-aware environmental soundscapes and professional audio using Gemini 2.0 Multimodal Live API. | Rust | 0 | 2026-04-05 |
-| [FerroTeX](https://github.com/jxoesneon/FerroTeX) | FerroTeX: research-driven LaTeX language platform + TeX build observability (docs/spec-first). | HTML | 3 | 2026-04-04 |
 | [dart_lz4](https://github.com/jxoesneon/dart_lz4) | Pure Dart LZ4 + LZ4HC (block + frame) with streaming support and pub.dev publishing via CI. | Dart | 0 | 2026-04-04 |
 | [UE5-MCP](https://github.com/jxoesneon/UE5-MCP) (fork) | MCP for Unreal Engine 5 | Python | 1 | 2026-04-03 |
 | [Dall-E-3-Client](https://github.com/jxoesneon/Dall-E-3-Client) |  | Python | 0 | 2026-04-03 |
@@ -134,6 +135,5 @@ Public repositories: **27**
 | [SeedSphere](https://github.com/jxoesneon/SeedSphere) | SeedSphere Stremio Tracker Addon - robust tracker health validation, recent boosts panel, Fly.io deployment | Dart | 4 | 2026-04-03 |
 | [claw-code](https://github.com/jxoesneon/claw-code) (fork) | The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after publication. Better Harness Tools, not merely storing the archive of leaked Claude Code but make real things done. Now rewriting in Rust using oh-my-codex. |  | 0 | 2026-04-03 |
 | [MindWeave](https://github.com/jxoesneon/MindWeave) |  | Dart | 0 | 2026-04-03 |
-| [ultramac-mcp](https://github.com/jxoesneon/ultramac-mcp) | The premier Model Context Protocol (MCP) server for macOS desktop automation. Enterprise-grade, secure, and fully verified. | TypeScript | 0 | 2026-04-03 |
 
 <!-- END PUBLIC_REPOS -->
