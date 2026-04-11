@@ -30,7 +30,7 @@
 
 | Project | Version | Description |
 | :------ | :------ | :---------- |
-| **[mempalace-rs](https://github.com/jxoesneon/mempalace-rs)** | `v0.4.0` | Release v0.4.0: Full Parity Sync & Production Hardening |
+| **[mempalace-rs](https://github.com/jxoesneon/mempalace-rs)** | `v0.4.1` | v0.4.1: MCP Protocol Fix & Comprehensive Test Suite |
 | **[FerroTeX](https://github.com/jxoesneon/FerroTeX)** | `v0.24.0` | v0.24.0 |
 | **[gemini-audio-mcp](https://github.com/jxoesneon/gemini-audio-mcp)** | `v0.1.1` | v0.1.1 |
 | **[SeedSphere](https://github.com/jxoesneon/SeedSphere)** | `v2.3.12` | v2.3.12 |
@@ -62,15 +62,15 @@ I build **Model Context Protocol (MCP)** servers to bridge AI agents with powerf
 
 <!-- BEGIN CORE_LIBRARIES -->
 
+### [mempalace-rs](https://github.com/jxoesneon/mempalace-rs)
+
+> A high-performance, local, offline-first AI memory system built in Rust
+> _Rust • 15★_
+
 ### [IPFS](https://github.com/jxoesneon/IPFS)
 
 > Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms.
 > _Dart • 9★_
-
-### [mempalace-rs](https://github.com/jxoesneon/mempalace-rs)
-
-> A high-performance, local, offline-first AI memory system built in Rust
-> _Rust • 6★_
 
 ### [SeedSphere](https://github.com/jxoesneon/SeedSphere)
 
@@ -104,14 +104,15 @@ I'm focused on delivering a high-quality **IPFS** ecosystem for Dart/Flutter on 
 ## 📚 Public Repositories
 <!-- BEGIN PUBLIC_REPOS -->
 
-Public repositories: **27**
+Public repositories: **28**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
-| [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | Rust | 6 | 2026-04-10 |
-| [FerroTeX](https://github.com/jxoesneon/FerroTeX) | FerroTeX: research-driven LaTeX language platform + TeX build observability (docs/spec-first). | HTML | 3 | 2026-04-09 |
+| [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | Rust | 15 | 2026-04-11 |
+| [Alloy](https://github.com/jxoesneon/Alloy) |  | TypeScript | 0 | 2026-04-11 |
+| [FerroTeX](https://github.com/jxoesneon/FerroTeX) | FerroTeX: research-driven LaTeX language platform + TeX build observability (docs/spec-first). | HTML | 3 | 2026-04-10 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-04-10 |
 | [ultramac-mcp](https://github.com/jxoesneon/ultramac-mcp) | The premier Model Context Protocol (MCP) server for macOS desktop automation. Enterprise-grade, secure, and fully verified. | TypeScript | 0 | 2026-04-09 |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-04-09 |
 | [gemini-audio-mcp](https://github.com/jxoesneon/gemini-audio-mcp) | A high-performance Model Context Protocol (MCP) server in Rust that generates infinite, context-aware environmental soundscapes and professional audio using Gemini 2.0 Multimodal Live API. | Rust | 0 | 2026-04-05 |
 | [dart_lz4](https://github.com/jxoesneon/dart_lz4) | Pure Dart LZ4 + LZ4HC (block + frame) with streaming support and pub.dev publishing via CI. | Dart | 0 | 2026-04-04 |
 | [UE5-MCP](https://github.com/jxoesneon/UE5-MCP) (fork) | MCP for Unreal Engine 5 | Python | 1 | 2026-04-03 |
