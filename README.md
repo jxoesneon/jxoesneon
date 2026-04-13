@@ -30,7 +30,7 @@
 
 | Project | Version | Description |
 | :------ | :------ | :---------- |
-| **[mempalace-rs](https://github.com/jxoesneon/mempalace-rs)** | `v0.4.1` | v0.4.1: MCP Protocol Fix & Comprehensive Test Suite |
+| **[mempalace-rs](https://github.com/jxoesneon/mempalace-rs)** | `v0.4.2` | v0.4.2: Windows Build Fix & Cross-Platform CI |
 | **[FerroTeX](https://github.com/jxoesneon/FerroTeX)** | `v0.24.0` | v0.24.0 |
 | **[gemini-audio-mcp](https://github.com/jxoesneon/gemini-audio-mcp)** | `v0.1.1` | v0.1.1 |
 | **[SeedSphere](https://github.com/jxoesneon/SeedSphere)** | `v2.3.12` | v2.3.12 |
@@ -65,7 +65,7 @@ I build **Model Context Protocol (MCP)** servers to bridge AI agents with powerf
 ### [mempalace-rs](https://github.com/jxoesneon/mempalace-rs)
 
 > A high-performance, local, offline-first AI memory system built in Rust
-> _Rust • 17★_
+> _C++ • 18★_
 
 ### [IPFS](https://github.com/jxoesneon/IPFS)
 
@@ -108,9 +108,10 @@ Public repositories: **28**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
-| [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | Rust | 17 | 2026-04-12 |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-04-11 |
-| [Alloy](https://github.com/jxoesneon/Alloy) |  | TypeScript | 0 | 2026-04-11 |
+| [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | C++ | 18 | 2026-04-13 |
+| [Alloy](https://github.com/jxoesneon/Alloy) |  | TypeScript | 0 | 2026-04-13 |
+| [jxoesneon.github.io](https://github.com/jxoesneon/jxoesneon.github.io) |  | JavaScript | 0 | 2026-04-12 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-04-12 |
 | [FerroTeX](https://github.com/jxoesneon/FerroTeX) | FerroTeX: research-driven LaTeX language platform + TeX build observability (docs/spec-first). | HTML | 3 | 2026-04-10 |
 | [ultramac-mcp](https://github.com/jxoesneon/ultramac-mcp) | The premier Model Context Protocol (MCP) server for macOS desktop automation. Enterprise-grade, secure, and fully verified. | TypeScript | 0 | 2026-04-09 |
 | [gemini-audio-mcp](https://github.com/jxoesneon/gemini-audio-mcp) | A high-performance Model Context Protocol (MCP) server in Rust that generates infinite, context-aware environmental soundscapes and professional audio using Gemini 2.0 Multimodal Live API. | Rust | 0 | 2026-04-05 |
@@ -129,7 +130,6 @@ Public repositories: **28**
 | [photoshopCompositionComposer](https://github.com/jxoesneon/photoshopCompositionComposer) (fork) | Automate the process of creating design compositions in Photoshop | JavaScript | 0 | 2026-04-03 |
 | [p2plib-dart](https://github.com/jxoesneon/p2plib-dart) (fork) | A simple UDP-based peer-to-peer library in Dart | Dart | 0 | 2026-04-03 |
 | [.github](https://github.com/jxoesneon/.github) |  |  | 0 | 2026-04-03 |
-| [jxoesneon.github.io](https://github.com/jxoesneon/jxoesneon.github.io) |  | JavaScript | 0 | 2026-04-03 |
 | [LayoutKit](https://github.com/jxoesneon/LayoutKit) (fork) | An application that makes it easier to create Nintendo Switch Layouts. | Vue | 0 | 2026-04-03 |
 | [tectonic](https://github.com/jxoesneon/tectonic) (fork) | A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive. | C | 1 | 2026-04-03 |
 | [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 9 | 2026-04-03 |
