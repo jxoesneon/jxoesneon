@@ -108,19 +108,20 @@ Public repositories: **28**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
-| [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | C++ | 18 | 2026-04-13 |
 | [Alloy](https://github.com/jxoesneon/Alloy) |  | TypeScript | 0 | 2026-04-13 |
+| [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | C++ | 18 | 2026-04-13 |
+| [SeedSphere](https://github.com/jxoesneon/SeedSphere) | SeedSphere Stremio Tracker Addon - robust tracker health validation, recent boosts panel, Fly.io deployment | Dart | 4 | 2026-04-13 |
+| [dart_lz4](https://github.com/jxoesneon/dart_lz4) | Pure Dart LZ4 + LZ4HC (block + frame) with streaming support and pub.dev publishing via CI. | Dart | 0 | 2026-04-13 |
+| [hermesbot](https://github.com/jxoesneon/hermesbot) | A timely notifier. | Python | 0 | 2026-04-13 |
+| [FerroTeX](https://github.com/jxoesneon/FerroTeX) | FerroTeX: research-driven LaTeX language platform + TeX build observability (docs/spec-first). | HTML | 3 | 2026-04-13 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-04-13 |
 | [jxoesneon.github.io](https://github.com/jxoesneon/jxoesneon.github.io) |  | JavaScript | 0 | 2026-04-12 |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-04-12 |
-| [FerroTeX](https://github.com/jxoesneon/FerroTeX) | FerroTeX: research-driven LaTeX language platform + TeX build observability (docs/spec-first). | HTML | 3 | 2026-04-10 |
 | [ultramac-mcp](https://github.com/jxoesneon/ultramac-mcp) | The premier Model Context Protocol (MCP) server for macOS desktop automation. Enterprise-grade, secure, and fully verified. | TypeScript | 0 | 2026-04-09 |
 | [gemini-audio-mcp](https://github.com/jxoesneon/gemini-audio-mcp) | A high-performance Model Context Protocol (MCP) server in Rust that generates infinite, context-aware environmental soundscapes and professional audio using Gemini 2.0 Multimodal Live API. | Rust | 0 | 2026-04-05 |
-| [dart_lz4](https://github.com/jxoesneon/dart_lz4) | Pure Dart LZ4 + LZ4HC (block + frame) with streaming support and pub.dev publishing via CI. | Dart | 0 | 2026-04-04 |
 | [UE5-MCP](https://github.com/jxoesneon/UE5-MCP) (fork) | MCP for Unreal Engine 5 | Python | 1 | 2026-04-03 |
 | [Dall-E-3-Client](https://github.com/jxoesneon/Dall-E-3-Client) |  | Python | 0 | 2026-04-03 |
 | [e2csv](https://github.com/jxoesneon/e2csv) | Webex Team bot to convert a list of emails to a csv file |  | 0 | 2026-04-03 |
 | [EvoSim](https://github.com/jxoesneon/EvoSim) | Evolutionary simulation engine in TypeScript | TypeScript | 0 | 2026-04-03 |
-| [hermesbot](https://github.com/jxoesneon/hermesbot) | A timely notifier. | Python | 0 | 2026-04-03 |
 | [pychem](https://github.com/jxoesneon/pychem) | A compilation of chemistry tools |  | 0 | 2026-04-03 |
 | [pynance](https://github.com/jxoesneon/pynance) |  | Python | 0 | 2026-04-03 |
 | [mcp-server-gemini-image-generator](https://github.com/jxoesneon/mcp-server-gemini-image-generator) (fork) | MCP server for AI image generation and editing using Google's Gemini Flash models. Create images from text prompts with intelligent filename generation and strict text exclusion. Supports text-to-image generation with future expansion to image editing capabilities. | Python | 0 | 2026-04-03 |
@@ -133,7 +134,6 @@ Public repositories: **28**
 | [LayoutKit](https://github.com/jxoesneon/LayoutKit) (fork) | An application that makes it easier to create Nintendo Switch Layouts. | Vue | 0 | 2026-04-03 |
 | [tectonic](https://github.com/jxoesneon/tectonic) (fork) | A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive. | C | 1 | 2026-04-03 |
 | [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 9 | 2026-04-03 |
-| [SeedSphere](https://github.com/jxoesneon/SeedSphere) | SeedSphere Stremio Tracker Addon - robust tracker health validation, recent boosts panel, Fly.io deployment | Dart | 4 | 2026-04-03 |
 | [claw-code](https://github.com/jxoesneon/claw-code) (fork) | The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after publication. Better Harness Tools, not merely storing the archive of leaked Claude Code but make real things done. Now rewriting in Rust using oh-my-codex. |  | 0 | 2026-04-03 |
 | [MindWeave](https://github.com/jxoesneon/MindWeave) |  | Dart | 0 | 2026-04-03 |
 
