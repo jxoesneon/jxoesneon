@@ -30,12 +30,12 @@
 
 | Project | Version | Description |
 | :------ | :------ | :---------- |
+| **[Ciel](https://github.com/jxoesneon/Ciel)** | `v1.0.0` | Ciel v1.0.0 |
 | **[dart_lz4](https://github.com/jxoesneon/dart_lz4)** | `v1.1.1` | v1.1.1 |
 | **[mempalace-rs](https://github.com/jxoesneon/mempalace-rs)** | `v0.4.2` | v0.4.2: Windows Build Fix & Cross-Platform CI |
 | **[FerroTeX](https://github.com/jxoesneon/FerroTeX)** | `v0.24.0` | v0.24.0 |
 | **[gemini-audio-mcp](https://github.com/jxoesneon/gemini-audio-mcp)** | `v0.1.1` | v0.1.1 |
 | **[SeedSphere](https://github.com/jxoesneon/SeedSphere)** | `v2.3.12` | v2.3.12 |
-| **[IPFS](https://github.com/jxoesneon/IPFS)** | `v1.9.5` | v1.9.5: Windows Path Normalization & Crypto Fixes |
 
 <!-- END LATEST_RELEASES -->
 
@@ -65,7 +65,7 @@ I build **Model Context Protocol (MCP)** servers to bridge AI agents with powerf
 ### [mempalace-rs](https://github.com/jxoesneon/mempalace-rs)
 
 > A high-performance, local, offline-first AI memory system built in Rust
-> _Rust • 25★_
+> _Rust • 27★_
 
 ### [IPFS](https://github.com/jxoesneon/IPFS)
 
@@ -104,13 +104,14 @@ I'm focused on delivering a high-quality **IPFS** ecosystem for Dart/Flutter on 
 ## 📚 Public Repositories
 <!-- BEGIN PUBLIC_REPOS -->
 
-Public repositories: **29**
+Public repositories: **30**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
-| [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | Rust | 25 | 2026-04-20 |
-| [FerroUI](https://github.com/jxoesneon/FerroUI) |  | TypeScript | 0 | 2026-04-20 |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-04-19 |
+| [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | Rust | 27 | 2026-04-21 |
+| [Ciel](https://github.com/jxoesneon/Ciel) |  | Shell | 0 | 2026-04-21 |
+| [FerroUI](https://github.com/jxoesneon/FerroUI) |  | TypeScript | 0 | 2026-04-21 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-04-20 |
 | [dart_lz4](https://github.com/jxoesneon/dart_lz4) | Pure Dart LZ4 + LZ4HC (block + frame) with streaming support and pub.dev publishing via CI. | Dart | 0 | 2026-04-17 |
 | [SeedSphere](https://github.com/jxoesneon/SeedSphere) | SeedSphere Stremio Tracker Addon - robust tracker health validation, recent boosts panel, Fly.io deployment | Dart | 5 | 2026-04-16 |
 | [tungstenite-rs](https://github.com/jxoesneon/tungstenite-rs) (fork) | Lightweight stream-based WebSocket implementation for Rust. |  | 0 | 2026-04-16 |
