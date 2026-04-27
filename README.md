@@ -65,7 +65,7 @@ I build **Model Context Protocol (MCP)** servers to bridge AI agents with powerf
 ### [mempalace-rs](https://github.com/jxoesneon/mempalace-rs)
 
 > A high-performance, local, offline-first AI memory system built in Rust
-> _Rust • 29★_
+> _Rust • 30★_
 
 ### [IPFS](https://github.com/jxoesneon/IPFS)
 
@@ -108,9 +108,9 @@ Public repositories: **30**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
+| [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | Rust | 30 | 2026-04-26 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-04-26 |
 | [Ciel](https://github.com/jxoesneon/Ciel) | Enterprise-grade autonomous partner intelligence for multi-agent software engineering. Harmonized cognitive layer with Council governance and the Iron Law of verification. | Shell | 0 | 2026-04-25 |
-| [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | Rust | 29 | 2026-04-25 |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-04-25 |
 | [FerroUI](https://github.com/jxoesneon/FerroUI) |  | TypeScript | 0 | 2026-04-21 |
 | [dart_lz4](https://github.com/jxoesneon/dart_lz4) | Pure Dart LZ4 + LZ4HC (block + frame) with streaming support and pub.dev publishing via CI. | Dart | 0 | 2026-04-17 |
 | [SeedSphere](https://github.com/jxoesneon/SeedSphere) | SeedSphere Stremio Tracker Addon - robust tracker health validation, recent boosts panel, Fly.io deployment | Dart | 5 | 2026-04-16 |
