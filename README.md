@@ -30,12 +30,12 @@
 
 | Project | Version | Description |
 | :------ | :------ | :---------- |
+| **[aura-nx](https://github.com/jxoesneon/aura-nx)** | `v2.1.0-fix6` | v2.1.0-fix6 |
 | **[IPFS](https://github.com/jxoesneon/IPFS)** | `v1.11.4` | v1.11.4: Principled Refactor & Council Remediation |
 | **[FerroUI](https://github.com/jxoesneon/FerroUI)** | `v2.0.0` | Release v2.0.0 |
 | **[mempalace-rs](https://github.com/jxoesneon/mempalace-rs)** | `v0.5.0` | Release v0.5.0: Halls Semantic Routing, WAL Audit Logging, Security Hardening, and 90% Test Coverage |
 | **[dart_lz4](https://github.com/jxoesneon/dart_lz4)** | `v1.2.0` | v1.2.0 |
 | **[Ciel](https://github.com/jxoesneon/Ciel)** | `v1.0.0` | Ciel v1.0.0 |
-| **[FerroTeX](https://github.com/jxoesneon/FerroTeX)** | `v0.24.0` | v0.24.0 |
 
 <!-- END LATEST_RELEASES -->
 
@@ -65,7 +65,7 @@ I build **Model Context Protocol (MCP)** servers to bridge AI agents with powerf
 ### [mempalace-rs](https://github.com/jxoesneon/mempalace-rs)
 
 > A high-performance, local, offline-first AI memory system built in Rust
-> _HTML • 33★_
+> _HTML • 32★_
 
 ### [IPFS](https://github.com/jxoesneon/IPFS)
 
@@ -104,16 +104,17 @@ I'm focused on delivering a high-quality **IPFS** ecosystem for Dart/Flutter on 
 ## 📚 Public Repositories
 <!-- BEGIN PUBLIC_REPOS -->
 
-Public repositories: **30**
+Public repositories: **31**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-05-18 |
+| [aura-nx](https://github.com/jxoesneon/aura-nx) |  | TypeScript | 0 | 2026-05-20 |
+| [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | HTML | 32 | 2026-05-19 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-05-19 |
 | [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 10 | 2026-05-16 |
 | [SeedSphere](https://github.com/jxoesneon/SeedSphere) | SeedSphere Stremio Tracker Addon - robust tracker health validation, recent boosts panel, Fly.io deployment | Dart | 5 | 2026-05-15 |
 | [FerroUI](https://github.com/jxoesneon/FerroUI) |  | TypeScript | 0 | 2026-05-14 |
 | [FerroTeX](https://github.com/jxoesneon/FerroTeX) | FerroTeX: research-driven LaTeX language platform + TeX build observability (docs/spec-first). | HTML | 3 | 2026-05-02 |
-| [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | HTML | 33 | 2026-05-01 |
 | [dart_lz4](https://github.com/jxoesneon/dart_lz4) | Pure Dart LZ4 + LZ4HC (block + frame) with streaming support and pub.dev publishing via CI. | Dart | 0 | 2026-05-01 |
 | [Ciel](https://github.com/jxoesneon/Ciel) | Enterprise-grade autonomous partner intelligence for multi-agent software engineering. Harmonized cognitive layer with Council governance and the Iron Law of verification. | Shell | 1 | 2026-04-28 |
 | [tungstenite-rs](https://github.com/jxoesneon/tungstenite-rs) (fork) | Lightweight stream-based WebSocket implementation for Rust. |  | 0 | 2026-04-16 |
