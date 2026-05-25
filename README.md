@@ -104,12 +104,13 @@ I'm focused on delivering a high-quality **IPFS** ecosystem for Dart/Flutter on 
 ## 📚 Public Repositories
 <!-- BEGIN PUBLIC_REPOS -->
 
-Public repositories: **31**
+Public repositories: **32**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
+| [Faithful-HD2D](https://github.com/jxoesneon/Faithful-HD2D) |  | TypeScript | 0 | 2026-05-25 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-05-24 |
 | [aura-nx](https://github.com/jxoesneon/aura-nx) |  | TypeScript | 0 | 2026-05-24 |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-05-23 |
 | [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | HTML | 33 | 2026-05-20 |
 | [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 10 | 2026-05-16 |
 | [SeedSphere](https://github.com/jxoesneon/SeedSphere) | SeedSphere Stremio Tracker Addon - robust tracker health validation, recent boosts panel, Fly.io deployment | Dart | 5 | 2026-05-15 |
