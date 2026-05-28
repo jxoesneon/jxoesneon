@@ -30,12 +30,12 @@
 
 | Project | Version | Description |
 | :------ | :------ | :---------- |
+| **[SeedSphere](https://github.com/jxoesneon/SeedSphere)** | `v2.3.22` | v2.3.22 |
 | **[aura-nx](https://github.com/jxoesneon/aura-nx)** | `v2.4.2` | v2.4.2 |
 | **[IPFS](https://github.com/jxoesneon/IPFS)** | `v1.11.4` | v1.11.4: Principled Refactor & Council Remediation |
 | **[FerroUI](https://github.com/jxoesneon/FerroUI)** | `v2.0.0` | Release v2.0.0 |
 | **[mempalace-rs](https://github.com/jxoesneon/mempalace-rs)** | `v0.5.0` | Release v0.5.0: Halls Semantic Routing, WAL Audit Logging, Security Hardening, and 90% Test Coverage |
 | **[dart_lz4](https://github.com/jxoesneon/dart_lz4)** | `v1.2.0` | v1.2.0 |
-| **[Ciel](https://github.com/jxoesneon/Ciel)** | `v1.0.0` | Ciel v1.0.0 |
 
 <!-- END LATEST_RELEASES -->
 
@@ -108,12 +108,13 @@ Public repositories: **32**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
+| [SeedSphere](https://github.com/jxoesneon/SeedSphere) | SeedSphere Stremio Tracker Addon - robust tracker health validation, recent boosts panel, Fly.io deployment | Dart | 5 | 2026-05-27 |
+| [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 10 | 2026-05-27 |
+| [p2plib-dart](https://github.com/jxoesneon/p2plib-dart) (fork) | A simple UDP-based peer-to-peer library in Dart | Dart | 0 | 2026-05-27 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-05-27 |
 | [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | HTML | 33 | 2026-05-26 |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-05-26 |
 | [Faithful-HD2D](https://github.com/jxoesneon/Faithful-HD2D) |  | TypeScript | 0 | 2026-05-25 |
 | [aura-nx](https://github.com/jxoesneon/aura-nx) |  | TypeScript | 0 | 2026-05-24 |
-| [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 10 | 2026-05-16 |
-| [SeedSphere](https://github.com/jxoesneon/SeedSphere) | SeedSphere Stremio Tracker Addon - robust tracker health validation, recent boosts panel, Fly.io deployment | Dart | 5 | 2026-05-15 |
 | [FerroUI](https://github.com/jxoesneon/FerroUI) |  | TypeScript | 0 | 2026-05-14 |
 | [FerroTeX](https://github.com/jxoesneon/FerroTeX) | FerroTeX: research-driven LaTeX language platform + TeX build observability (docs/spec-first). | HTML | 3 | 2026-05-02 |
 | [dart_lz4](https://github.com/jxoesneon/dart_lz4) | Pure Dart LZ4 + LZ4HC (block + frame) with streaming support and pub.dev publishing via CI. | Dart | 0 | 2026-05-01 |
@@ -134,7 +135,6 @@ Public repositories: **32**
 | [godot-mcp](https://github.com/jxoesneon/godot-mcp) (fork) | MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output. | JavaScript | 0 | 2026-04-03 |
 | [ipfs_client_flutter](https://github.com/jxoesneon/ipfs_client_flutter) (fork) | IPFS client for flutter | Dart | 0 | 2026-04-03 |
 | [photoshopCompositionComposer](https://github.com/jxoesneon/photoshopCompositionComposer) (fork) | Automate the process of creating design compositions in Photoshop | JavaScript | 0 | 2026-04-03 |
-| [p2plib-dart](https://github.com/jxoesneon/p2plib-dart) (fork) | A simple UDP-based peer-to-peer library in Dart | Dart | 0 | 2026-04-03 |
 | [.github](https://github.com/jxoesneon/.github) |  |  | 0 | 2026-04-03 |
 | [LayoutKit](https://github.com/jxoesneon/LayoutKit) (fork) | An application that makes it easier to create Nintendo Switch Layouts. | Vue | 0 | 2026-04-03 |
 | [tectonic](https://github.com/jxoesneon/tectonic) (fork) | A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive. | C | 1 | 2026-04-03 |
