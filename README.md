@@ -30,12 +30,12 @@
 
 | Project | Version | Description |
 | :------ | :------ | :---------- |
+| **[quic_lib](https://github.com/jxoesneon/quic_lib)** | `v1.2.1` | v1.2.1 - Documentation hardening |
 | **[UltraWin-MCP](https://github.com/jxoesneon/UltraWin-MCP)** | `v0.1.0` | UltraWin MCP v0.1.0 |
 | **[SeedSphere](https://github.com/jxoesneon/SeedSphere)** | `v2.3.22` | v2.3.22 |
 | **[aura-nx](https://github.com/jxoesneon/aura-nx)** | `v2.4.2` | v2.4.2 |
 | **[IPFS](https://github.com/jxoesneon/IPFS)** | `v1.11.4` | v1.11.4: Principled Refactor & Council Remediation |
 | **[FerroUI](https://github.com/jxoesneon/FerroUI)** | `v2.0.0` | Release v2.0.0 |
-| **[mempalace-rs](https://github.com/jxoesneon/mempalace-rs)** | `v0.5.0` | Release v0.5.0: Halls Semantic Routing, WAL Audit Logging, Security Hardening, and 90% Test Coverage |
 
 <!-- END LATEST_RELEASES -->
 
@@ -105,11 +105,12 @@ I'm focused on delivering a high-quality **IPFS** ecosystem for Dart/Flutter on 
 ## 📚 Public Repositories
 <!-- BEGIN PUBLIC_REPOS -->
 
-Public repositories: **34**
+Public repositories: **35**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-06-26 |
+| [quic_lib](https://github.com/jxoesneon/quic_lib) | A pure-Dart QUIC, HTTP/3, WebTransport, and libp2p transport stack. | Dart | 0 | 2026-06-28 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-06-27 |
 | [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 10 | 2026-06-25 |
 | [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | HTML | 34 | 2026-06-25 |
 | [ciel-ecc](https://github.com/jxoesneon/ciel-ecc) |  | JavaScript | 0 | 2026-06-15 |
