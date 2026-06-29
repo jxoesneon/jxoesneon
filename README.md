@@ -30,7 +30,7 @@
 
 | Project | Version | Description |
 | :------ | :------ | :---------- |
-| **[quic_lib](https://github.com/jxoesneon/quic_lib)** | `v1.2.1` | v1.2.1 - Documentation hardening |
+| **[quic_lib](https://github.com/jxoesneon/quic_lib)** | `v1.2.3` | v1.2.3 - Honest platform support + WASM compile compatibility |
 | **[UltraWin-MCP](https://github.com/jxoesneon/UltraWin-MCP)** | `v0.1.0` | UltraWin MCP v0.1.0 |
 | **[SeedSphere](https://github.com/jxoesneon/SeedSphere)** | `v2.3.22` | v2.3.22 |
 | **[aura-nx](https://github.com/jxoesneon/aura-nx)** | `v2.4.2` | v2.4.2 |
@@ -76,7 +76,7 @@ I build **Model Context Protocol (MCP)** servers to bridge AI agents with powerf
 ### [SeedSphere](https://github.com/jxoesneon/SeedSphere)
 
 > SeedSphere Stremio Tracker Addon - robust tracker health validation, recent boosts panel, Fly.io deployment
-> _Dart • 6★_
+> _Dart • 7★_
 
 <!-- END CORE_LIBRARIES -->
 
@@ -109,12 +109,12 @@ Public repositories: **35**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
+| [SeedSphere](https://github.com/jxoesneon/SeedSphere) | SeedSphere Stremio Tracker Addon - robust tracker health validation, recent boosts panel, Fly.io deployment | Dart | 7 | 2026-06-29 |
 | [quic_lib](https://github.com/jxoesneon/quic_lib) | A pure-Dart QUIC, HTTP/3, WebTransport, and libp2p transport stack. | Dart | 0 | 2026-06-28 |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-06-27 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-06-28 |
 | [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 10 | 2026-06-25 |
 | [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | HTML | 34 | 2026-06-25 |
 | [ciel-ecc](https://github.com/jxoesneon/ciel-ecc) |  | JavaScript | 0 | 2026-06-15 |
-| [SeedSphere](https://github.com/jxoesneon/SeedSphere) | SeedSphere Stremio Tracker Addon - robust tracker health validation, recent boosts panel, Fly.io deployment | Dart | 6 | 2026-06-05 |
 | [UltraWin-MCP](https://github.com/jxoesneon/UltraWin-MCP) |  | Rust | 0 | 2026-06-03 |
 | [p2plib-dart](https://github.com/jxoesneon/p2plib-dart) (fork) | A simple UDP-based peer-to-peer library in Dart | Dart | 0 | 2026-05-27 |
 | [Faithful-HD2D](https://github.com/jxoesneon/Faithful-HD2D) |  | TypeScript | 0 | 2026-05-25 |
