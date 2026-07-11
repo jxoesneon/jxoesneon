@@ -30,11 +30,11 @@
 
 | Project | Version | Description |
 | :------ | :------ | :---------- |
+| **[IPFS](https://github.com/jxoesneon/IPFS)** | `v1.11.7` | v1.11.7: Publishing Regression Fix |
 | **[quic_lib](https://github.com/jxoesneon/quic_lib)** | `v1.2.3` | v1.2.3 - Honest platform support + WASM compile compatibility |
 | **[UltraWin-MCP](https://github.com/jxoesneon/UltraWin-MCP)** | `v0.1.0` | UltraWin MCP v0.1.0 |
 | **[SeedSphere](https://github.com/jxoesneon/SeedSphere)** | `v2.3.22` | v2.3.22 |
 | **[aura-nx](https://github.com/jxoesneon/aura-nx)** | `v2.4.2` | v2.4.2 |
-| **[IPFS](https://github.com/jxoesneon/IPFS)** | `v1.11.4` | v1.11.4: Principled Refactor & Council Remediation |
 | **[FerroUI](https://github.com/jxoesneon/FerroUI)** | `v2.0.0` | Release v2.0.0 |
 
 <!-- END LATEST_RELEASES -->
@@ -109,9 +109,9 @@ Public repositories: **35**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-07-09 |
+| [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 10 | 2026-07-11 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-07-10 |
 | [quic_lib](https://github.com/jxoesneon/quic_lib) | A pure-Dart QUIC, HTTP/3, WebTransport, and libp2p transport stack. | Dart | 0 | 2026-07-07 |
-| [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 10 | 2026-06-30 |
 | [SeedSphere](https://github.com/jxoesneon/SeedSphere) | SeedSphere Stremio Tracker Addon - robust tracker health validation, recent boosts panel, Fly.io deployment | Dart | 7 | 2026-06-29 |
 | [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | HTML | 34 | 2026-06-25 |
 | [ciel-ecc](https://github.com/jxoesneon/ciel-ecc) |  | JavaScript | 0 | 2026-06-15 |
