@@ -105,15 +105,16 @@ I'm focused on delivering a high-quality **IPFS** ecosystem for Dart/Flutter on 
 ## 📚 Public Repositories
 <!-- BEGIN PUBLIC_REPOS -->
 
-Public repositories: **36**
+Public repositories: **37**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
+| [BioGenesis](https://github.com/jxoesneon/BioGenesis) | 3d bio spaceship builder | TypeScript | 0 | 2026-08-10 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-08-10 |
 | [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | HTML | 35 | 2026-08-10 |
 | [Ciel](https://github.com/jxoesneon/Ciel) | Enterprise-grade autonomous partner intelligence for multi-agent software engineering. Harmonized cognitive layer with Council governance and the Iron Law of verification. | JavaScript | 1 | 2026-08-10 |
 | [modly](https://github.com/jxoesneon/modly) (fork) | Desktop app to generate 3D models from images using local AI — runs entirely on your GPU |  | 0 | 2026-08-09 |
 | [aura-nx](https://github.com/jxoesneon/aura-nx) |  | TypeScript | 1 | 2026-08-09 |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-08-09 |
 | [blender-mcp](https://github.com/jxoesneon/blender-mcp) (fork) | Blender Model Context Protocol Integration - Connects Blender to Claude AI for prompt-assisted 3D modeling. | Python | 0 | 2026-08-08 |
 | [FerroTeX](https://github.com/jxoesneon/FerroTeX) | FerroTeX: research-driven LaTeX language platform + TeX build observability (docs/spec-first). | HTML | 3 | 2026-08-07 |
 | [SeedSphere](https://github.com/jxoesneon/SeedSphere) | SeedSphere Stremio Tracker Addon - robust tracker health validation, recent boosts panel, Fly.io deployment | Dart | 7 | 2026-08-07 |
