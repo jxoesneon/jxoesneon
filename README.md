@@ -51,9 +51,9 @@ I build **Model Context Protocol (MCP)** servers to bridge AI agents with powerf
 - **[ultramac-mcp](https://github.com/jxoesneon/ultramac-mcp)**: The premier Model Context Protocol (MCP) server for macOS desktop automation. Enterprise-grade, secure, and fully verified.
 - **[gemini-audio-mcp](https://github.com/jxoesneon/gemini-audio-mcp)**: A high-performance Model Context Protocol (MCP) server in Rust that generates infinite, context-aware environmental soundscapes and professional audio using Gemini 2.0 Multimodal Live API.
 - **[UE5-MCP](https://github.com/jxoesneon/UE5-MCP)**: MCP for Unreal Engine 5
+- **[godot-mcp](https://github.com/jxoesneon/godot-mcp)**: MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output.
 - **[blender-mcp](https://github.com/jxoesneon/blender-mcp)**: Blender Model Context Protocol Integration - Connects Blender to Claude AI for prompt-assisted 3D modeling.
 - **[mcp-server-gemini-image-generator](https://github.com/jxoesneon/mcp-server-gemini-image-generator)**: MCP server for AI image generation and editing using Google's Gemini Flash models. Create images from text prompts with intelligent filename generation and strict text exclusion. Supports text-to-image generation with future expansion to image editing capabilities.
-- **[godot-mcp](https://github.com/jxoesneon/godot-mcp)**: MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output.
 
 <!-- END MCP_ECOSYSTEM -->
 
@@ -71,7 +71,7 @@ I build **Model Context Protocol (MCP)** servers to bridge AI agents with powerf
 ### [IPFS](https://github.com/jxoesneon/IPFS)
 
 > Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms.
-> _Dart • 10★_
+> _Dart • 11★_
 
 ### [SeedSphere](https://github.com/jxoesneon/SeedSphere)
 
@@ -109,7 +109,9 @@ Public repositories: **37**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-08-12 |
+| [godot-mcp](https://github.com/jxoesneon/godot-mcp) (fork) | MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output. | GDScript | 0 | 2026-08-14 |
+| [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 11 | 2026-08-13 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-08-13 |
 | [BioGenesis](https://github.com/jxoesneon/BioGenesis) | 3d bio spaceship builder | TypeScript | 0 | 2026-08-11 |
 | [blender-mcp](https://github.com/jxoesneon/blender-mcp) (fork) | Blender Model Context Protocol Integration - Connects Blender to Claude AI for prompt-assisted 3D modeling. | Python | 0 | 2026-08-11 |
 | [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | HTML | 35 | 2026-08-10 |
@@ -118,7 +120,6 @@ Public repositories: **37**
 | [aura-nx](https://github.com/jxoesneon/aura-nx) |  | TypeScript | 1 | 2026-08-09 |
 | [FerroTeX](https://github.com/jxoesneon/FerroTeX) | FerroTeX: research-driven LaTeX language platform + TeX build observability (docs/spec-first). | HTML | 3 | 2026-08-07 |
 | [SeedSphere](https://github.com/jxoesneon/SeedSphere) | SeedSphere Stremio Tracker Addon - robust tracker health validation, recent boosts panel, Fly.io deployment | Dart | 7 | 2026-08-07 |
-| [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 10 | 2026-08-07 |
 | [Faithful-HD2D](https://github.com/jxoesneon/Faithful-HD2D) |  | TypeScript | 0 | 2026-07-24 |
 | [quic_lib](https://github.com/jxoesneon/quic_lib) | A pure-Dart QUIC, HTTP/3, WebTransport, and libp2p transport stack. | Dart | 0 | 2026-07-07 |
 | [ciel-ecc](https://github.com/jxoesneon/ciel-ecc) |  | JavaScript | 0 | 2026-06-15 |
@@ -138,7 +139,6 @@ Public repositories: **37**
 | [pychem](https://github.com/jxoesneon/pychem) | A compilation of chemistry tools |  | 0 | 2026-04-03 |
 | [pynance](https://github.com/jxoesneon/pynance) |  | Python | 0 | 2026-04-03 |
 | [mcp-server-gemini-image-generator](https://github.com/jxoesneon/mcp-server-gemini-image-generator) (fork) | MCP server for AI image generation and editing using Google's Gemini Flash models. Create images from text prompts with intelligent filename generation and strict text exclusion. Supports text-to-image generation with future expansion to image editing capabilities. | Python | 0 | 2026-04-03 |
-| [godot-mcp](https://github.com/jxoesneon/godot-mcp) (fork) | MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output. | JavaScript | 0 | 2026-04-03 |
 | [ipfs_client_flutter](https://github.com/jxoesneon/ipfs_client_flutter) (fork) | IPFS client for flutter | Dart | 0 | 2026-04-03 |
 | [photoshopCompositionComposer](https://github.com/jxoesneon/photoshopCompositionComposer) (fork) | Automate the process of creating design compositions in Photoshop | JavaScript | 0 | 2026-04-03 |
 | [.github](https://github.com/jxoesneon/.github) |  |  | 0 | 2026-04-03 |
