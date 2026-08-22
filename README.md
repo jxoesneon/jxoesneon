@@ -109,8 +109,8 @@ Public repositories: **38**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-08-21 |
 | [Ciel](https://github.com/jxoesneon/Ciel) | Enterprise-grade autonomous partner intelligence for multi-agent software engineering. Harmonized cognitive layer with Council governance and the Iron Law of verification. | Python | 1 | 2026-08-20 |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-08-20 |
 | [BioGenesis-X](https://github.com/jxoesneon/BioGenesis-X) | AAA 3D biopunk starship builder and void-flight combat simulator built with Godot 4.7.1. Real-scale universe, procedural generation, living ship systems, 6-DOF Newtonian flight, and hardware-aware performance optimization. | GDScript | 0 | 2026-08-20 |
 | [godot-mcp](https://github.com/jxoesneon/godot-mcp) (fork) | MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output. | GDScript | 0 | 2026-08-18 |
 | [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 11 | 2026-08-13 |
