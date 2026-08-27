@@ -66,7 +66,7 @@ I build **Model Context Protocol (MCP)** servers to bridge AI agents with powerf
 ### [mempalace-rs](https://github.com/jxoesneon/mempalace-rs)
 
 > A high-performance, local, offline-first AI memory system built in Rust
-> _HTML • 35★_
+> _HTML • 36★_
 
 ### [IPFS](https://github.com/jxoesneon/IPFS)
 
@@ -109,9 +109,9 @@ Public repositories: **38**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-08-25 |
-| [BioGenesis-X](https://github.com/jxoesneon/BioGenesis-X) | AAA 3D biopunk starship builder and void-flight combat simulator built with Godot 4.7.1. Real-scale universe, procedural generation, living ship systems, 6-DOF Newtonian flight, and hardware-aware performance optimization. | GDScript | 0 | 2026-08-25 |
-| [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | HTML | 35 | 2026-08-24 |
+| [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | HTML | 36 | 2026-08-27 |
+| [BioGenesis-X](https://github.com/jxoesneon/BioGenesis-X) | AAA 3D biopunk starship builder and void-flight combat simulator built with Godot 4.7.1. Real-scale universe, procedural generation, living ship systems, 6-DOF Newtonian flight, and hardware-aware performance optimization. | GDScript | 1 | 2026-08-26 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-08-26 |
 | [dart_lz4](https://github.com/jxoesneon/dart_lz4) | Pure Dart LZ4 + LZ4HC (block + frame) with streaming support and pub.dev publishing via CI. | Dart | 0 | 2026-08-24 |
 | [Ciel](https://github.com/jxoesneon/Ciel) | Enterprise-grade autonomous partner intelligence for multi-agent software engineering. Harmonized cognitive layer with Council governance and the Iron Law of verification. | Python | 1 | 2026-08-23 |
 | [blender-mcp](https://github.com/jxoesneon/blender-mcp) (fork) | Blender Model Context Protocol Integration - Connects Blender to Claude AI for prompt-assisted 3D modeling. | Python | 0 | 2026-08-23 |
