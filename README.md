@@ -30,7 +30,7 @@
 
 | Project | Version | Description |
 | :------ | :------ | :---------- |
-| **[IPFS](https://github.com/jxoesneon/IPFS)** | `v1.12.0` | v1.12.0: PubSub Ed25519 Cryptographic Authentication (SEC-008) |
+| **[IPFS](https://github.com/jxoesneon/IPFS)** | `v1.14.1` | v1.14.1: Pana 160/160 Polish & Satellite Alignment |
 | **[oxidelink](https://github.com/jxoesneon/oxidelink)** | `v0.2.0` | OxideLink v0.2.0 |
 | **[quic_lib](https://github.com/jxoesneon/quic_lib)** | `v1.2.3` | v1.2.3 - Honest platform support + WASM compile compatibility |
 | **[UltraWin-MCP](https://github.com/jxoesneon/UltraWin-MCP)** | `v0.1.0` | UltraWin MCP v0.1.0 |
@@ -109,8 +109,8 @@ Public repositories: **41**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
-| [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 11 | 2026-09-04 |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-09-04 |
+| [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 11 | 2026-09-05 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-09-05 |
 | [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | HTML | 37 | 2026-09-03 |
 | [NSPFF](https://github.com/jxoesneon/NSPFF) | High-performance native Flutter application for generating Nintendo Switch NSP forwarders (NRO & RetroArch shortcuts). | Dart | 1 | 2026-09-03 |
 | [oxidelink](https://github.com/jxoesneon/oxidelink) | Nintendo Switch controller remapping for Windows — Tauri 2 + Vite + ViGEmBus + HidHide + gyro mouse + flick stick + amiibo + macros | Rust | 0 | 2026-09-02 |
