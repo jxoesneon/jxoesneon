@@ -30,12 +30,12 @@
 
 | Project | Version | Description |
 | :------ | :------ | :---------- |
+| **[martensite](https://github.com/jxoesneon/martensite)** | `v0.9.0` | v0.9.0 |
 | **[IPFS](https://github.com/jxoesneon/IPFS)** | `v1.14.1` | v1.14.1: Pana 160/160 Polish & Satellite Alignment |
 | **[oxidelink](https://github.com/jxoesneon/oxidelink)** | `v0.2.0` | OxideLink v0.2.0 |
 | **[quic_lib](https://github.com/jxoesneon/quic_lib)** | `v1.2.3` | v1.2.3 - Honest platform support + WASM compile compatibility |
 | **[UltraWin-MCP](https://github.com/jxoesneon/UltraWin-MCP)** | `v0.1.0` | UltraWin MCP v0.1.0 |
 | **[SeedSphere](https://github.com/jxoesneon/SeedSphere)** | `v2.3.22` | v2.3.22 |
-| **[aura-nx](https://github.com/jxoesneon/aura-nx)** | `v2.4.2` | v2.4.2 |
 
 <!-- END LATEST_RELEASES -->
 
@@ -109,29 +109,29 @@ Public repositories: **42**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
-| [martensite](https://github.com/jxoesneon/martensite) | The sovereign, retained-mode, GPU-accelerated graphical user interface engine for Rust. | Rust | 0 | 2026-09-07 |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-09-06 |
-| [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 11 | 2026-09-05 |
-| [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | HTML | 37 | 2026-09-03 |
+| [martensite](https://github.com/jxoesneon/martensite) | The sovereign, retained-mode, GPU-accelerated graphical user interface engine for Rust. | Rust | 0 | 2026-09-08 |
+| [SeedSphere](https://github.com/jxoesneon/SeedSphere) | SeedSphere Stremio Tracker Addon - robust tracker health validation, recent boosts panel, Fly.io deployment | Dart | 7 | 2026-09-07 |
+| [ciel-ecc](https://github.com/jxoesneon/ciel-ecc) |  | JavaScript | 0 | 2026-09-07 |
+| [Ciel](https://github.com/jxoesneon/Ciel) | Enterprise-grade autonomous partner intelligence for multi-agent software engineering. Harmonized cognitive layer with Council governance and the Iron Law of verification. | Python | 1 | 2026-09-07 |
+| [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | HTML | 37 | 2026-09-07 |
+| [Faithful-HD2D](https://github.com/jxoesneon/Faithful-HD2D) |  | TypeScript | 0 | 2026-09-07 |
+| [FerroUI](https://github.com/jxoesneon/FerroUI) |  | TypeScript | 0 | 2026-09-07 |
+| [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 11 | 2026-09-07 |
+| [aura-nx](https://github.com/jxoesneon/aura-nx) |  | TypeScript | 1 | 2026-09-07 |
+| [gemini-audio-mcp](https://github.com/jxoesneon/gemini-audio-mcp) | A high-performance Model Context Protocol (MCP) server in Rust that generates infinite, context-aware environmental soundscapes and professional audio using Gemini 2.0 Multimodal Live API. | Rust | 0 | 2026-09-07 |
+| [dart_lz4](https://github.com/jxoesneon/dart_lz4) | Pure Dart LZ4 + LZ4HC (block + frame) with streaming support and pub.dev publishing via CI. | Dart | 0 | 2026-09-07 |
+| [FerroTeX](https://github.com/jxoesneon/FerroTeX) | FerroTeX: research-driven LaTeX language platform + TeX build observability (docs/spec-first). | HTML | 3 | 2026-09-07 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-09-07 |
 | [NSPFF](https://github.com/jxoesneon/NSPFF) | High-performance native Flutter application for generating Nintendo Switch NSP forwarders (NRO & RetroArch shortcuts). | Dart | 1 | 2026-09-03 |
 | [oxidelink](https://github.com/jxoesneon/oxidelink) | Nintendo Switch controller remapping for Windows — Tauri 2 + Vite + ViGEmBus + HidHide + gyro mouse + flick stick + amiibo + macros | Rust | 0 | 2026-09-02 |
 | [Alexandria](https://github.com/jxoesneon/Alexandria) |  | Dart | 0 | 2026-09-02 |
-| [dart_lz4](https://github.com/jxoesneon/dart_lz4) | Pure Dart LZ4 + LZ4HC (block + frame) with streaming support and pub.dev publishing via CI. | Dart | 0 | 2026-09-02 |
 | [hermesbot](https://github.com/jxoesneon/hermesbot) | A timely notifier. | Python | 0 | 2026-09-02 |
 | [quic_lib](https://github.com/jxoesneon/quic_lib) | A pure-Dart QUIC, HTTP/3, WebTransport, and libp2p transport stack. | Dart | 0 | 2026-09-02 |
-| [gemini-audio-mcp](https://github.com/jxoesneon/gemini-audio-mcp) | A high-performance Model Context Protocol (MCP) server in Rust that generates infinite, context-aware environmental soundscapes and professional audio using Gemini 2.0 Multimodal Live API. | Rust | 0 | 2026-09-02 |
-| [SeedSphere](https://github.com/jxoesneon/SeedSphere) | SeedSphere Stremio Tracker Addon - robust tracker health validation, recent boosts panel, Fly.io deployment | Dart | 7 | 2026-09-01 |
-| [FerroTeX](https://github.com/jxoesneon/FerroTeX) | FerroTeX: research-driven LaTeX language platform + TeX build observability (docs/spec-first). | HTML | 3 | 2026-09-01 |
-| [FerroUI](https://github.com/jxoesneon/FerroUI) |  | TypeScript | 0 | 2026-09-01 |
-| [ciel-ecc](https://github.com/jxoesneon/ciel-ecc) |  | JavaScript | 0 | 2026-09-01 |
-| [Ciel](https://github.com/jxoesneon/Ciel) | Enterprise-grade autonomous partner intelligence for multi-agent software engineering. Harmonized cognitive layer with Council governance and the Iron Law of verification. | Python | 1 | 2026-08-31 |
 | [BioGenesis](https://github.com/jxoesneon/BioGenesis) | 3d bio spaceship builder | TypeScript | 0 | 2026-08-31 |
 | [blender-mcp](https://github.com/jxoesneon/blender-mcp) (fork) | Blender Model Context Protocol Integration - Connects Blender to Claude AI for prompt-assisted 3D modeling. | Python | 0 | 2026-08-31 |
 | [godot-mcp](https://github.com/jxoesneon/godot-mcp) (fork) | MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output. | GDScript | 0 | 2026-08-31 |
 | [BioGenesis-X](https://github.com/jxoesneon/BioGenesis-X) | AAA 3D biopunk starship builder and void-flight combat simulator built with Godot 4.7.1. Real-scale universe, procedural generation, living ship systems, 6-DOF Newtonian flight, and hardware-aware performance optimization. | GDScript | 1 | 2026-08-31 |
 | [modly](https://github.com/jxoesneon/modly) (fork) | Desktop app to generate 3D models from images using local AI — runs entirely on your GPU |  | 0 | 2026-08-09 |
-| [aura-nx](https://github.com/jxoesneon/aura-nx) |  | TypeScript | 1 | 2026-08-09 |
-| [Faithful-HD2D](https://github.com/jxoesneon/Faithful-HD2D) |  | TypeScript | 0 | 2026-07-24 |
 | [UltraWin-MCP](https://github.com/jxoesneon/UltraWin-MCP) |  | Rust | 0 | 2026-06-03 |
 | [p2plib-dart](https://github.com/jxoesneon/p2plib-dart) (fork) | A simple UDP-based peer-to-peer library in Dart | Dart | 0 | 2026-05-27 |
 | [tungstenite-rs](https://github.com/jxoesneon/tungstenite-rs) (fork) | Lightweight stream-based WebSocket implementation for Rust. |  | 0 | 2026-04-16 |
