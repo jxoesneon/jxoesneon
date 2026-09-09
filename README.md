@@ -30,7 +30,7 @@
 
 | Project | Version | Description |
 | :------ | :------ | :---------- |
-| **[martensite](https://github.com/jxoesneon/martensite)** | `v0.9.0` | v0.9.0 |
+| **[martensite](https://github.com/jxoesneon/martensite)** | `v0.10.0` | v0.10.0 |
 | **[IPFS](https://github.com/jxoesneon/IPFS)** | `v1.14.1` | v1.14.1: Pana 160/160 Polish & Satellite Alignment |
 | **[oxidelink](https://github.com/jxoesneon/oxidelink)** | `v0.2.0` | OxideLink v0.2.0 |
 | **[quic_lib](https://github.com/jxoesneon/quic_lib)** | `v1.2.3` | v1.2.3 - Honest platform support + WASM compile compatibility |
@@ -110,6 +110,7 @@ Public repositories: **42**
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
 | [martensite](https://github.com/jxoesneon/martensite) | The sovereign, retained-mode, GPU-accelerated graphical user interface engine for Rust. | Rust | 0 | 2026-09-08 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-09-08 |
 | [SeedSphere](https://github.com/jxoesneon/SeedSphere) | SeedSphere Stremio Tracker Addon - robust tracker health validation, recent boosts panel, Fly.io deployment | Dart | 7 | 2026-09-07 |
 | [ciel-ecc](https://github.com/jxoesneon/ciel-ecc) |  | JavaScript | 0 | 2026-09-07 |
 | [Ciel](https://github.com/jxoesneon/Ciel) | Enterprise-grade autonomous partner intelligence for multi-agent software engineering. Harmonized cognitive layer with Council governance and the Iron Law of verification. | Python | 1 | 2026-09-07 |
@@ -121,7 +122,6 @@ Public repositories: **42**
 | [gemini-audio-mcp](https://github.com/jxoesneon/gemini-audio-mcp) | A high-performance Model Context Protocol (MCP) server in Rust that generates infinite, context-aware environmental soundscapes and professional audio using Gemini 2.0 Multimodal Live API. | Rust | 0 | 2026-09-07 |
 | [dart_lz4](https://github.com/jxoesneon/dart_lz4) | Pure Dart LZ4 + LZ4HC (block + frame) with streaming support and pub.dev publishing via CI. | Dart | 0 | 2026-09-07 |
 | [FerroTeX](https://github.com/jxoesneon/FerroTeX) | FerroTeX: research-driven LaTeX language platform + TeX build observability (docs/spec-first). | HTML | 3 | 2026-09-07 |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-09-07 |
 | [NSPFF](https://github.com/jxoesneon/NSPFF) | High-performance native Flutter application for generating Nintendo Switch NSP forwarders (NRO & RetroArch shortcuts). | Dart | 1 | 2026-09-03 |
 | [oxidelink](https://github.com/jxoesneon/oxidelink) | Nintendo Switch controller remapping for Windows — Tauri 2 + Vite + ViGEmBus + HidHide + gyro mouse + flick stick + amiibo + macros | Rust | 0 | 2026-09-02 |
 | [Alexandria](https://github.com/jxoesneon/Alexandria) |  | Dart | 0 | 2026-09-02 |
