@@ -30,7 +30,7 @@
 
 | Project | Version | Description |
 | :------ | :------ | :---------- |
-| **[martensite](https://github.com/jxoesneon/martensite)** | `v0.12.0` | v0.12.0 |
+| **[martensite](https://github.com/jxoesneon/martensite)** | `v0.13.0` | v0.13.0 |
 | **[FerroTeX](https://github.com/jxoesneon/FerroTeX)** | `v0.25.0` | v0.25.0 |
 | **[IPFS](https://github.com/jxoesneon/IPFS)** | `v1.14.1` | v1.14.1: Pana 160/160 Polish & Satellite Alignment |
 | **[oxidelink](https://github.com/jxoesneon/oxidelink)** | `v0.2.0` | OxideLink v0.2.0 |
@@ -76,7 +76,7 @@ I build **Model Context Protocol (MCP)** servers to bridge AI agents with powerf
 ### [SeedSphere](https://github.com/jxoesneon/SeedSphere)
 
 > SeedSphere Stremio Tracker Addon - robust tracker health validation, recent boosts panel, Fly.io deployment
-> _Dart • 7★_
+> _Dart • 6★_
 
 <!-- END CORE_LIBRARIES -->
 
@@ -109,10 +109,10 @@ Public repositories: **42**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
+| [SeedSphere](https://github.com/jxoesneon/SeedSphere) | SeedSphere Stremio Tracker Addon - robust tracker health validation, recent boosts panel, Fly.io deployment | Dart | 6 | 2026-09-12 |
+| [martensite](https://github.com/jxoesneon/martensite) | The sovereign, retained-mode, GPU-accelerated graphical user interface engine for Rust. | Rust | 0 | 2026-09-12 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-09-11 |
 | [FerroTeX](https://github.com/jxoesneon/FerroTeX) | FerroTeX: research-driven LaTeX language platform + TeX build observability (docs/spec-first). | Rust | 3 | 2026-09-11 |
-| [martensite](https://github.com/jxoesneon/martensite) | The sovereign, retained-mode, GPU-accelerated graphical user interface engine for Rust. | Rust | 0 | 2026-09-11 |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-09-10 |
-| [SeedSphere](https://github.com/jxoesneon/SeedSphere) | SeedSphere Stremio Tracker Addon - robust tracker health validation, recent boosts panel, Fly.io deployment | Dart | 7 | 2026-09-07 |
 | [ciel-ecc](https://github.com/jxoesneon/ciel-ecc) |  | JavaScript | 0 | 2026-09-07 |
 | [Ciel](https://github.com/jxoesneon/Ciel) | Enterprise-grade autonomous partner intelligence for multi-agent software engineering. Harmonized cognitive layer with Council governance and the Iron Law of verification. | Python | 1 | 2026-09-07 |
 | [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | HTML | 37 | 2026-09-07 |
