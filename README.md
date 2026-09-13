@@ -30,12 +30,12 @@
 
 | Project | Version | Description |
 | :------ | :------ | :---------- |
-| **[martensite](https://github.com/jxoesneon/martensite)** | `v0.13.0` | v0.13.0 |
+| **[dart_lz4](https://github.com/jxoesneon/dart_lz4)** | `v1.4.0` | v1.4.0 |
+| **[martensite](https://github.com/jxoesneon/martensite)** | `v0.15.0` | v0.15.0 |
+| **[ultramac-mcp](https://github.com/jxoesneon/ultramac-mcp)** | `v1.0.0` | UltraMac MCP v1.0.0 |
 | **[FerroTeX](https://github.com/jxoesneon/FerroTeX)** | `v0.25.0` | v0.25.0 |
 | **[IPFS](https://github.com/jxoesneon/IPFS)** | `v1.14.1` | v1.14.1: Pana 160/160 Polish & Satellite Alignment |
 | **[oxidelink](https://github.com/jxoesneon/oxidelink)** | `v0.2.0` | OxideLink v0.2.0 |
-| **[quic_lib](https://github.com/jxoesneon/quic_lib)** | `v1.2.3` | v1.2.3 - Honest platform support + WASM compile compatibility |
-| **[UltraWin-MCP](https://github.com/jxoesneon/UltraWin-MCP)** | `v0.1.0` | UltraWin MCP v0.1.0 |
 
 <!-- END LATEST_RELEASES -->
 
@@ -47,9 +47,9 @@ I build **Model Context Protocol (MCP)** servers to bridge AI agents with powerf
 
 <!-- BEGIN MCP_ECOSYSTEM -->
 
+- **[ultramac-mcp](https://github.com/jxoesneon/ultramac-mcp)**: The premier Model Context Protocol (MCP) server for macOS desktop automation. Enterprise-grade, secure, and fully verified.
 - **[gemini-audio-mcp](https://github.com/jxoesneon/gemini-audio-mcp)**: A high-performance Model Context Protocol (MCP) server in Rust that generates infinite, context-aware environmental soundscapes and professional audio using Gemini 2.0 Multimodal Live API.
 - **[UltraWin-MCP](https://github.com/jxoesneon/UltraWin-MCP)**
-- **[ultramac-mcp](https://github.com/jxoesneon/ultramac-mcp)**: The premier Model Context Protocol (MCP) server for macOS desktop automation. Enterprise-grade, secure, and fully verified.
 - **[UE5-MCP](https://github.com/jxoesneon/UE5-MCP)**: MCP for Unreal Engine 5
 - **[blender-mcp](https://github.com/jxoesneon/blender-mcp)**: Blender Model Context Protocol Integration - Connects Blender to Claude AI for prompt-assisted 3D modeling.
 - **[godot-mcp](https://github.com/jxoesneon/godot-mcp)**: MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output.
@@ -105,13 +105,17 @@ I'm focused on delivering a high-quality **IPFS** ecosystem for Dart/Flutter on 
 ## 📚 Public Repositories
 <!-- BEGIN PUBLIC_REPOS -->
 
-Public repositories: **42**
+Public repositories: **44**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
+| [martensite](https://github.com/jxoesneon/martensite) | The sovereign, retained-mode, GPU-accelerated graphical user interface engine for Rust. | Rust | 0 | 2026-09-13 |
+| [dart_lz4](https://github.com/jxoesneon/dart_lz4) | Pure Dart LZ4 + LZ4HC (block + frame) with streaming support and pub.dev publishing via CI. | Dart | 0 | 2026-09-13 |
+| [fluttergems](https://github.com/jxoesneon/fluttergems) (fork) | The community contribution repo to add new packages & Flutter projects to Flutter Gems, a curated list of Dart & Flutter packages |  | 0 | 2026-09-13 |
+| [ultramac-mcp](https://github.com/jxoesneon/ultramac-mcp) | The premier Model Context Protocol (MCP) server for macOS desktop automation. Enterprise-grade, secure, and fully verified. | TypeScript | 0 | 2026-09-12 |
+| [hermes-ciel-theme](https://github.com/jxoesneon/hermes-ciel-theme) | Official Ciel skin for Hermes Agent CLI — Cosmic void, ice-cyan circle-light, white robe, crimson gaze. | Python | 0 | 2026-09-12 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-09-12 |
 | [SeedSphere](https://github.com/jxoesneon/SeedSphere) | SeedSphere Stremio Tracker Addon - robust tracker health validation, recent boosts panel, Fly.io deployment | Dart | 6 | 2026-09-12 |
-| [martensite](https://github.com/jxoesneon/martensite) | The sovereign, retained-mode, GPU-accelerated graphical user interface engine for Rust. | Rust | 0 | 2026-09-12 |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-09-11 |
 | [FerroTeX](https://github.com/jxoesneon/FerroTeX) | FerroTeX: research-driven LaTeX language platform + TeX build observability (docs/spec-first). | Rust | 3 | 2026-09-11 |
 | [ciel-ecc](https://github.com/jxoesneon/ciel-ecc) |  | JavaScript | 0 | 2026-09-07 |
 | [Ciel](https://github.com/jxoesneon/Ciel) | Enterprise-grade autonomous partner intelligence for multi-agent software engineering. Harmonized cognitive layer with Council governance and the Iron Law of verification. | Python | 1 | 2026-09-07 |
@@ -121,7 +125,6 @@ Public repositories: **42**
 | [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 11 | 2026-09-07 |
 | [aura-nx](https://github.com/jxoesneon/aura-nx) |  | TypeScript | 1 | 2026-09-07 |
 | [gemini-audio-mcp](https://github.com/jxoesneon/gemini-audio-mcp) | A high-performance Model Context Protocol (MCP) server in Rust that generates infinite, context-aware environmental soundscapes and professional audio using Gemini 2.0 Multimodal Live API. | Rust | 0 | 2026-09-07 |
-| [dart_lz4](https://github.com/jxoesneon/dart_lz4) | Pure Dart LZ4 + LZ4HC (block + frame) with streaming support and pub.dev publishing via CI. | Dart | 0 | 2026-09-07 |
 | [NSPFF](https://github.com/jxoesneon/NSPFF) | High-performance native Flutter application for generating Nintendo Switch NSP forwarders (NRO & RetroArch shortcuts). | Dart | 1 | 2026-09-03 |
 | [oxidelink](https://github.com/jxoesneon/oxidelink) | Nintendo Switch controller remapping for Windows — Tauri 2 + Vite + ViGEmBus + HidHide + gyro mouse + flick stick + amiibo + macros | Rust | 0 | 2026-09-02 |
 | [Alexandria](https://github.com/jxoesneon/Alexandria) |  | Dart | 0 | 2026-09-02 |
@@ -136,7 +139,6 @@ Public repositories: **42**
 | [p2plib-dart](https://github.com/jxoesneon/p2plib-dart) (fork) | A simple UDP-based peer-to-peer library in Dart | Dart | 0 | 2026-05-27 |
 | [tungstenite-rs](https://github.com/jxoesneon/tungstenite-rs) (fork) | Lightweight stream-based WebSocket implementation for Rust. |  | 0 | 2026-04-16 |
 | [jxoesneon.github.io](https://github.com/jxoesneon/jxoesneon.github.io) |  | JavaScript | 0 | 2026-04-12 |
-| [ultramac-mcp](https://github.com/jxoesneon/ultramac-mcp) | The premier Model Context Protocol (MCP) server for macOS desktop automation. Enterprise-grade, secure, and fully verified. | TypeScript | 0 | 2026-04-09 |
 | [UE5-MCP](https://github.com/jxoesneon/UE5-MCP) (fork) | MCP for Unreal Engine 5 | Python | 1 | 2026-04-03 |
 | [Dall-E-3-Client](https://github.com/jxoesneon/Dall-E-3-Client) |  | Python | 0 | 2026-04-03 |
 | [e2csv](https://github.com/jxoesneon/e2csv) | Webex Team bot to convert a list of emails to a csv file |  | 0 | 2026-04-03 |
