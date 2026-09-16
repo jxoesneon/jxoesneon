@@ -30,7 +30,7 @@
 
 | Project | Version | Description |
 | :------ | :------ | :---------- |
-| **[ultranix-mcp](https://github.com/jxoesneon/ultranix-mcp)** | `v0.1.0` | UltraNix MCP v0.1.0 — Scaffold & Mocks |
+| **[ultranix-mcp](https://github.com/jxoesneon/ultranix-mcp)** | `v1.3.0` | v1.3.0 — Policy & Governance |
 | **[martensite](https://github.com/jxoesneon/martensite)** | `v0.17.0` | v0.17.0 |
 | **[dart_lz4](https://github.com/jxoesneon/dart_lz4)** | `v1.4.0` | v1.4.0 |
 | **[ultramac-mcp](https://github.com/jxoesneon/ultramac-mcp)** | `v1.0.0` | UltraMac MCP v1.0.0 |
@@ -110,10 +110,11 @@ Public repositories: **45**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
-| [ultranix-mcp](https://github.com/jxoesneon/ultranix-mcp) | Rust MCP server for Linux desktop automation — Wayland/Hyprland-first, UltraWin skeleton, UltraMac surface | Rust | 0 | 2026-09-15 |
-| [martensite](https://github.com/jxoesneon/martensite) | The sovereign, retained-mode, GPU-accelerated graphical user interface engine for Rust. | Rust | 0 | 2026-09-15 |
+| [ultranix-mcp](https://github.com/jxoesneon/ultranix-mcp) | Rust MCP server for Linux desktop automation — Wayland/Hyprland-first, UltraWin skeleton, UltraMac surface | Rust | 0 | 2026-09-16 |
+| [martensite](https://github.com/jxoesneon/martensite) | The sovereign, retained-mode, GPU-accelerated graphical user interface engine for Rust. | Rust | 1 | 2026-09-16 |
+| [oxidelink](https://github.com/jxoesneon/oxidelink) | Nintendo Switch controller remapping for Windows — Tauri 2 + Vite + ViGEmBus + HidHide + gyro mouse + flick stick + amiibo + macros | Rust | 0 | 2026-09-15 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-09-15 |
 | [Alexandria](https://github.com/jxoesneon/Alexandria) |  | Dart | 0 | 2026-09-15 |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-09-14 |
 | [dart_lz4](https://github.com/jxoesneon/dart_lz4) | Pure Dart LZ4 + LZ4HC (block + frame) with streaming support and pub.dev publishing via CI. | Dart | 0 | 2026-09-13 |
 | [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | HTML | 38 | 2026-09-13 |
 | [fluttergems](https://github.com/jxoesneon/fluttergems) (fork) | The community contribution repo to add new packages & Flutter projects to Flutter Gems, a curated list of Dart & Flutter packages |  | 0 | 2026-09-13 |
@@ -129,7 +130,6 @@ Public repositories: **45**
 | [aura-nx](https://github.com/jxoesneon/aura-nx) |  | TypeScript | 1 | 2026-09-07 |
 | [gemini-audio-mcp](https://github.com/jxoesneon/gemini-audio-mcp) | A high-performance Model Context Protocol (MCP) server in Rust that generates infinite, context-aware environmental soundscapes and professional audio using Gemini 2.0 Multimodal Live API. | Rust | 0 | 2026-09-07 |
 | [NSPFF](https://github.com/jxoesneon/NSPFF) | High-performance native Flutter application for generating Nintendo Switch NSP forwarders (NRO & RetroArch shortcuts). | Dart | 1 | 2026-09-03 |
-| [oxidelink](https://github.com/jxoesneon/oxidelink) | Nintendo Switch controller remapping for Windows — Tauri 2 + Vite + ViGEmBus + HidHide + gyro mouse + flick stick + amiibo + macros | Rust | 0 | 2026-09-02 |
 | [hermesbot](https://github.com/jxoesneon/hermesbot) | A timely notifier. | Python | 0 | 2026-09-02 |
 | [quic_lib](https://github.com/jxoesneon/quic_lib) | A pure-Dart QUIC, HTTP/3, WebTransport, and libp2p transport stack. | Dart | 0 | 2026-09-02 |
 | [BioGenesis](https://github.com/jxoesneon/BioGenesis) | 3d bio spaceship builder | TypeScript | 0 | 2026-08-31 |
