@@ -30,12 +30,12 @@
 
 | Project | Version | Description |
 | :------ | :------ | :---------- |
-| **[IPFS](https://github.com/jxoesneon/IPFS)** | `v1.16.0` | v1.16.0 |
+| **[IPFS](https://github.com/jxoesneon/IPFS)** | `v1.16.2` | v1.16.2 |
+| **[ultramac-mcp](https://github.com/jxoesneon/ultramac-mcp)** | `v1.1.0` | v1.1.0 — Element-Semantic Actions & Targeting |
 | **[ultranix-mcp](https://github.com/jxoesneon/ultranix-mcp)** | `v1.4.0` | v1.4.0 |
 | **[vibeveil](https://github.com/jxoesneon/vibeveil)** | `v0.2.0` | v0.2.0 |
 | **[martensite](https://github.com/jxoesneon/martensite)** | `v0.18.0` | v0.18.0 |
 | **[dart_lz4](https://github.com/jxoesneon/dart_lz4)** | `v1.4.0` | v1.4.0 |
-| **[ultramac-mcp](https://github.com/jxoesneon/ultramac-mcp)** | `v1.0.0` | UltraMac MCP v1.0.0 |
 
 <!-- END LATEST_RELEASES -->
 
@@ -47,9 +47,9 @@ I build **Model Context Protocol (MCP)** servers to bridge AI agents with powerf
 
 <!-- BEGIN MCP_ECOSYSTEM -->
 
-- **[ultranix-mcp](https://github.com/jxoesneon/ultranix-mcp)**: Rust MCP server for Linux desktop automation — Wayland/Hyprland-first, UltraWin skeleton, UltraMac surface
-- **[ultramac-mcp](https://github.com/jxoesneon/ultramac-mcp)**: The premier Model Context Protocol (MCP) server for macOS desktop automation. Enterprise-grade, secure, and fully verified.
 - **[gemini-audio-mcp](https://github.com/jxoesneon/gemini-audio-mcp)**: A high-performance Model Context Protocol (MCP) server in Rust that generates infinite, context-aware environmental soundscapes and professional audio using Gemini 2.0 Multimodal Live API.
+- **[ultramac-mcp](https://github.com/jxoesneon/ultramac-mcp)**: The premier Model Context Protocol (MCP) server for macOS desktop automation. Enterprise-grade, secure, and fully verified.
+- **[ultranix-mcp](https://github.com/jxoesneon/ultranix-mcp)**: Rust MCP server for Linux desktop automation — Wayland/Hyprland-first, UltraWin skeleton, UltraMac surface
 - **[UltraWin-MCP](https://github.com/jxoesneon/UltraWin-MCP)**
 - **[UE5-MCP](https://github.com/jxoesneon/UE5-MCP)**: MCP for Unreal Engine 5
 - **[blender-mcp](https://github.com/jxoesneon/blender-mcp)**: Blender Model Context Protocol Integration - Connects Blender to Claude AI for prompt-assisted 3D modeling.
@@ -110,29 +110,29 @@ Public repositories: **46**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
-| [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 11 | 2026-09-17 |
+| [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 11 | 2026-09-18 |
+| [quic_lib](https://github.com/jxoesneon/quic_lib) | A pure-Dart QUIC, HTTP/3, WebTransport, and libp2p transport stack. | Dart | 0 | 2026-09-18 |
+| [Alexandria](https://github.com/jxoesneon/Alexandria) |  | Dart | 0 | 2026-09-18 |
+| [oxidelink](https://github.com/jxoesneon/oxidelink) | Nintendo Switch controller remapping for Windows — Tauri 2 + Vite + ViGEmBus + HidHide + gyro mouse + flick stick + amiibo + macros | Rust | 0 | 2026-09-18 |
+| [SeedSphere](https://github.com/jxoesneon/SeedSphere) | SeedSphere Stremio Tracker Addon - robust tracker health validation, recent boosts panel, Fly.io deployment | Dart | 6 | 2026-09-18 |
+| [gemini-audio-mcp](https://github.com/jxoesneon/gemini-audio-mcp) | A high-performance Model Context Protocol (MCP) server in Rust that generates infinite, context-aware environmental soundscapes and professional audio using Gemini 2.0 Multimodal Live API. | Rust | 0 | 2026-09-18 |
+| [dart_lz4](https://github.com/jxoesneon/dart_lz4) | Pure Dart LZ4 + LZ4HC (block + frame) with streaming support and pub.dev publishing via CI. | Dart | 0 | 2026-09-18 |
+| [ultramac-mcp](https://github.com/jxoesneon/ultramac-mcp) | The premier Model Context Protocol (MCP) server for macOS desktop automation. Enterprise-grade, secure, and fully verified. | TypeScript | 0 | 2026-09-18 |
+| [ciel-ecc](https://github.com/jxoesneon/ciel-ecc) |  | JavaScript | 0 | 2026-09-18 |
+| [FerroUI](https://github.com/jxoesneon/FerroUI) |  | TypeScript | 0 | 2026-09-18 |
 | [martensite](https://github.com/jxoesneon/martensite) | The sovereign, retained-mode, GPU-accelerated graphical user interface engine for Rust. | Rust | 1 | 2026-09-17 |
 | [ultranix-mcp](https://github.com/jxoesneon/ultranix-mcp) | Rust MCP server for Linux desktop automation — Wayland/Hyprland-first, UltraWin skeleton, UltraMac surface | Rust | 0 | 2026-09-17 |
-| [Alexandria](https://github.com/jxoesneon/Alexandria) |  | Dart | 0 | 2026-09-17 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-09-17 |
 | [vibeveil](https://github.com/jxoesneon/vibeveil) |  | Rust | 0 | 2026-09-16 |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-09-16 |
-| [oxidelink](https://github.com/jxoesneon/oxidelink) | Nintendo Switch controller remapping for Windows — Tauri 2 + Vite + ViGEmBus + HidHide + gyro mouse + flick stick + amiibo + macros | Rust | 0 | 2026-09-15 |
-| [dart_lz4](https://github.com/jxoesneon/dart_lz4) | Pure Dart LZ4 + LZ4HC (block + frame) with streaming support and pub.dev publishing via CI. | Dart | 0 | 2026-09-13 |
 | [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | HTML | 38 | 2026-09-13 |
 | [fluttergems](https://github.com/jxoesneon/fluttergems) (fork) | The community contribution repo to add new packages & Flutter projects to Flutter Gems, a curated list of Dart & Flutter packages |  | 0 | 2026-09-13 |
-| [ultramac-mcp](https://github.com/jxoesneon/ultramac-mcp) | The premier Model Context Protocol (MCP) server for macOS desktop automation. Enterprise-grade, secure, and fully verified. | TypeScript | 0 | 2026-09-12 |
 | [hermes-ciel-theme](https://github.com/jxoesneon/hermes-ciel-theme) | Official Ciel skin for Hermes Agent CLI — Cosmic void, ice-cyan circle-light, white robe, crimson gaze. | Python | 0 | 2026-09-12 |
-| [SeedSphere](https://github.com/jxoesneon/SeedSphere) | SeedSphere Stremio Tracker Addon - robust tracker health validation, recent boosts panel, Fly.io deployment | Dart | 6 | 2026-09-12 |
 | [FerroTeX](https://github.com/jxoesneon/FerroTeX) | FerroTeX: research-driven LaTeX language platform + TeX build observability (docs/spec-first). | Rust | 3 | 2026-09-11 |
-| [ciel-ecc](https://github.com/jxoesneon/ciel-ecc) |  | JavaScript | 0 | 2026-09-07 |
 | [Ciel](https://github.com/jxoesneon/Ciel) | Enterprise-grade autonomous partner intelligence for multi-agent software engineering. Harmonized cognitive layer with Council governance and the Iron Law of verification. | Python | 1 | 2026-09-07 |
 | [Faithful-HD2D](https://github.com/jxoesneon/Faithful-HD2D) |  | TypeScript | 0 | 2026-09-07 |
-| [FerroUI](https://github.com/jxoesneon/FerroUI) |  | TypeScript | 0 | 2026-09-07 |
 | [aura-nx](https://github.com/jxoesneon/aura-nx) |  | TypeScript | 1 | 2026-09-07 |
-| [gemini-audio-mcp](https://github.com/jxoesneon/gemini-audio-mcp) | A high-performance Model Context Protocol (MCP) server in Rust that generates infinite, context-aware environmental soundscapes and professional audio using Gemini 2.0 Multimodal Live API. | Rust | 0 | 2026-09-07 |
 | [NSPFF](https://github.com/jxoesneon/NSPFF) | High-performance native Flutter application for generating Nintendo Switch NSP forwarders (NRO & RetroArch shortcuts). | Dart | 1 | 2026-09-03 |
 | [hermesbot](https://github.com/jxoesneon/hermesbot) | A timely notifier. | Python | 0 | 2026-09-02 |
-| [quic_lib](https://github.com/jxoesneon/quic_lib) | A pure-Dart QUIC, HTTP/3, WebTransport, and libp2p transport stack. | Dart | 0 | 2026-09-02 |
 | [BioGenesis](https://github.com/jxoesneon/BioGenesis) | 3d bio spaceship builder | TypeScript | 0 | 2026-08-31 |
 | [blender-mcp](https://github.com/jxoesneon/blender-mcp) (fork) | Blender Model Context Protocol Integration - Connects Blender to Claude AI for prompt-assisted 3D modeling. | Python | 0 | 2026-08-31 |
 | [godot-mcp](https://github.com/jxoesneon/godot-mcp) (fork) | MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output. | GDScript | 0 | 2026-08-31 |
