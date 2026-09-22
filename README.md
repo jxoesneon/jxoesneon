@@ -30,12 +30,12 @@
 
 | Project | Version | Description |
 | :------ | :------ | :---------- |
-| **[IPFS](https://github.com/jxoesneon/IPFS)** | `v1.17.0` | v1.17.0 |
+| **[IPFS](https://github.com/jxoesneon/IPFS)** | `v1.19.0` | v1.19.0 |
+| **[tycho](https://github.com/jxoesneon/tycho)** | `v0.3.0` | v0.3.0 |
 | **[ultramac-mcp](https://github.com/jxoesneon/ultramac-mcp)** | `v1.1.0` | v1.1.0 — Element-Semantic Actions & Targeting |
 | **[ultranix-mcp](https://github.com/jxoesneon/ultranix-mcp)** | `v1.4.0` | v1.4.0 |
 | **[vibeveil](https://github.com/jxoesneon/vibeveil)** | `v0.2.0` | v0.2.0 |
 | **[martensite](https://github.com/jxoesneon/martensite)** | `v0.18.0` | v0.18.0 |
-| **[dart_lz4](https://github.com/jxoesneon/dart_lz4)** | `v1.4.0` | v1.4.0 |
 
 <!-- END LATEST_RELEASES -->
 
@@ -110,10 +110,11 @@ Public repositories: **48**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
+| [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 11 | 2026-09-22 |
+| [martensite](https://github.com/jxoesneon/martensite) | The sovereign, retained-mode, GPU-accelerated graphical user interface engine for Rust. | Rust | 2 | 2026-09-21 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-09-21 |
 | [tycho](https://github.com/jxoesneon/tycho) | Autonomous low-latency voice assistant for Linux compositors (Hyprland, KDE Plasma, Wayland/X11) built in Rust | Rust | 0 | 2026-09-21 |
-| [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 11 | 2026-09-21 |
 | [ipfs_libp2p](https://github.com/jxoesneon/ipfs_libp2p) |  | Dart | 0 | 2026-09-21 |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-09-20 |
 | [quic_lib](https://github.com/jxoesneon/quic_lib) | A pure-Dart QUIC, HTTP/3, WebTransport, and libp2p transport stack. | Dart | 0 | 2026-09-18 |
 | [Alexandria](https://github.com/jxoesneon/Alexandria) |  | Dart | 0 | 2026-09-18 |
 | [oxidelink](https://github.com/jxoesneon/oxidelink) | Nintendo Switch controller remapping for Windows — Tauri 2 + Vite + ViGEmBus + HidHide + gyro mouse + flick stick + amiibo + macros | Rust | 0 | 2026-09-18 |
@@ -123,7 +124,6 @@ Public repositories: **48**
 | [ultramac-mcp](https://github.com/jxoesneon/ultramac-mcp) | The premier Model Context Protocol (MCP) server for macOS desktop automation. Enterprise-grade, secure, and fully verified. | TypeScript | 0 | 2026-09-18 |
 | [ciel-ecc](https://github.com/jxoesneon/ciel-ecc) |  | JavaScript | 0 | 2026-09-18 |
 | [FerroUI](https://github.com/jxoesneon/FerroUI) |  | TypeScript | 0 | 2026-09-18 |
-| [martensite](https://github.com/jxoesneon/martensite) | The sovereign, retained-mode, GPU-accelerated graphical user interface engine for Rust. | Rust | 1 | 2026-09-17 |
 | [ultranix-mcp](https://github.com/jxoesneon/ultranix-mcp) | Rust MCP server for Linux desktop automation — Wayland/Hyprland-first, UltraWin skeleton, UltraMac surface | Rust | 0 | 2026-09-17 |
 | [vibeveil](https://github.com/jxoesneon/vibeveil) |  | Rust | 0 | 2026-09-16 |
 | [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | HTML | 38 | 2026-09-13 |
