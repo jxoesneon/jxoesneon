@@ -106,13 +106,16 @@ I'm focused on delivering a high-quality **IPFS** ecosystem for Dart/Flutter on 
 ## 📚 Public Repositories
 <!-- BEGIN PUBLIC_REPOS -->
 
-Public repositories: **48**
+Public repositories: **50**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
-| [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 11 | 2026-09-22 |
+| [hyprCRD](https://github.com/jxoesneon/hyprCRD) | Native Wayland & PipeWire Host for Google Chrome Remote Desktop on Hyprland | C++ | 1 | 2026-09-23 |
+| [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 11 | 2026-09-23 |
+| [rustybuzz](https://github.com/jxoesneon/rustybuzz) (fork) | A complete harfbuzz's shaping algorithm port to Rust |  | 0 | 2026-09-22 |
+| [aura-nx](https://github.com/jxoesneon/aura-nx) |  | TypeScript | 1 | 2026-09-22 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-09-22 |
 | [martensite](https://github.com/jxoesneon/martensite) | The sovereign, retained-mode, GPU-accelerated graphical user interface engine for Rust. | Rust | 2 | 2026-09-21 |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-09-21 |
 | [tycho](https://github.com/jxoesneon/tycho) | Autonomous low-latency voice assistant for Linux compositors (Hyprland, KDE Plasma, Wayland/X11) built in Rust | Rust | 0 | 2026-09-21 |
 | [ipfs_libp2p](https://github.com/jxoesneon/ipfs_libp2p) |  | Dart | 0 | 2026-09-21 |
 | [quic_lib](https://github.com/jxoesneon/quic_lib) | A pure-Dart QUIC, HTTP/3, WebTransport, and libp2p transport stack. | Dart | 0 | 2026-09-18 |
@@ -132,7 +135,6 @@ Public repositories: **48**
 | [FerroTeX](https://github.com/jxoesneon/FerroTeX) | FerroTeX: research-driven LaTeX language platform + TeX build observability (docs/spec-first). | Rust | 3 | 2026-09-11 |
 | [Ciel](https://github.com/jxoesneon/Ciel) | Enterprise-grade autonomous partner intelligence for multi-agent software engineering. Harmonized cognitive layer with Council governance and the Iron Law of verification. | Python | 1 | 2026-09-07 |
 | [Faithful-HD2D](https://github.com/jxoesneon/Faithful-HD2D) |  | TypeScript | 0 | 2026-09-07 |
-| [aura-nx](https://github.com/jxoesneon/aura-nx) |  | TypeScript | 1 | 2026-09-07 |
 | [NSPFF](https://github.com/jxoesneon/NSPFF) | High-performance native Flutter application for generating Nintendo Switch NSP forwarders (NRO & RetroArch shortcuts). | Dart | 1 | 2026-09-03 |
 | [hermesbot](https://github.com/jxoesneon/hermesbot) | A timely notifier. | Python | 0 | 2026-09-02 |
 | [BioGenesis](https://github.com/jxoesneon/BioGenesis) | 3d bio spaceship builder | TypeScript | 0 | 2026-08-31 |
