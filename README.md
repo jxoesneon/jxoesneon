@@ -30,12 +30,12 @@
 
 | Project | Version | Description |
 | :------ | :------ | :---------- |
+| **[Ciel](https://github.com/jxoesneon/Ciel)** | `v1.2.0` | Ciel v1.2.0 |
+| **[martensite](https://github.com/jxoesneon/martensite)** | `v0.19.0` | v0.19.0 |
 | **[IPFS](https://github.com/jxoesneon/IPFS)** | `v1.19.0` | v1.19.0 |
 | **[tycho](https://github.com/jxoesneon/tycho)** | `v0.3.0` | v0.3.0 |
 | **[ultramac-mcp](https://github.com/jxoesneon/ultramac-mcp)** | `v1.1.0` | v1.1.0 — Element-Semantic Actions & Targeting |
 | **[ultranix-mcp](https://github.com/jxoesneon/ultranix-mcp)** | `v1.4.0` | v1.4.0 |
-| **[vibeveil](https://github.com/jxoesneon/vibeveil)** | `v0.2.0` | v0.2.0 |
-| **[martensite](https://github.com/jxoesneon/martensite)** | `v0.18.0` | v0.18.0 |
 
 <!-- END LATEST_RELEASES -->
 
@@ -110,12 +110,13 @@ Public repositories: **50**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
-| [hyprCRD](https://github.com/jxoesneon/hyprCRD) | Native Wayland & PipeWire Host for Google Chrome Remote Desktop on Hyprland | C++ | 1 | 2026-09-23 |
+| [Ciel](https://github.com/jxoesneon/Ciel) | Enterprise-grade autonomous partner intelligence for multi-agent software engineering. Harmonized cognitive layer with Council governance and the Iron Law of verification. | Python | 1 | 2026-09-24 |
+| [martensite](https://github.com/jxoesneon/martensite) | The sovereign, retained-mode, GPU-accelerated graphical user interface engine for Rust. | Rust | 2 | 2026-09-24 |
+| [hyprCRD](https://github.com/jxoesneon/hyprCRD) | Native Wayland & PipeWire Host for Google Chrome Remote Desktop on Hyprland | C++ | 2 | 2026-09-23 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-09-23 |
 | [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 11 | 2026-09-23 |
 | [rustybuzz](https://github.com/jxoesneon/rustybuzz) (fork) | A complete harfbuzz's shaping algorithm port to Rust |  | 0 | 2026-09-22 |
 | [aura-nx](https://github.com/jxoesneon/aura-nx) |  | TypeScript | 1 | 2026-09-22 |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-09-22 |
-| [martensite](https://github.com/jxoesneon/martensite) | The sovereign, retained-mode, GPU-accelerated graphical user interface engine for Rust. | Rust | 2 | 2026-09-21 |
 | [tycho](https://github.com/jxoesneon/tycho) | Autonomous low-latency voice assistant for Linux compositors (Hyprland, KDE Plasma, Wayland/X11) built in Rust | Rust | 0 | 2026-09-21 |
 | [ipfs_libp2p](https://github.com/jxoesneon/ipfs_libp2p) |  | Dart | 0 | 2026-09-21 |
 | [quic_lib](https://github.com/jxoesneon/quic_lib) | A pure-Dart QUIC, HTTP/3, WebTransport, and libp2p transport stack. | Dart | 0 | 2026-09-18 |
@@ -133,7 +134,6 @@ Public repositories: **50**
 | [fluttergems](https://github.com/jxoesneon/fluttergems) (fork) | The community contribution repo to add new packages & Flutter projects to Flutter Gems, a curated list of Dart & Flutter packages |  | 0 | 2026-09-13 |
 | [hermes-ciel-theme](https://github.com/jxoesneon/hermes-ciel-theme) | Official Ciel skin for Hermes Agent CLI — Cosmic void, ice-cyan circle-light, white robe, crimson gaze. | Python | 0 | 2026-09-12 |
 | [FerroTeX](https://github.com/jxoesneon/FerroTeX) | FerroTeX: research-driven LaTeX language platform + TeX build observability (docs/spec-first). | Rust | 3 | 2026-09-11 |
-| [Ciel](https://github.com/jxoesneon/Ciel) | Enterprise-grade autonomous partner intelligence for multi-agent software engineering. Harmonized cognitive layer with Council governance and the Iron Law of verification. | Python | 1 | 2026-09-07 |
 | [Faithful-HD2D](https://github.com/jxoesneon/Faithful-HD2D) |  | TypeScript | 0 | 2026-09-07 |
 | [NSPFF](https://github.com/jxoesneon/NSPFF) | High-performance native Flutter application for generating Nintendo Switch NSP forwarders (NRO & RetroArch shortcuts). | Dart | 1 | 2026-09-03 |
 | [hermesbot](https://github.com/jxoesneon/hermesbot) | A timely notifier. | Python | 0 | 2026-09-02 |
