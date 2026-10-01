@@ -67,7 +67,7 @@ I build **Model Context Protocol (MCP)** servers to bridge AI agents with powerf
 ### [mempalace-rs](https://github.com/jxoesneon/mempalace-rs)
 
 > A high-performance, local, offline-first AI memory system built in Rust
-> _HTML • 38★_
+> _HTML • 37★_
 
 ### [IPFS](https://github.com/jxoesneon/IPFS)
 
@@ -106,15 +106,17 @@ I'm focused on delivering a high-quality **IPFS** ecosystem for Dart/Flutter on 
 ## 📚 Public Repositories
 <!-- BEGIN PUBLIC_REPOS -->
 
-Public repositories: **50**
+Public repositories: **51**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
-| [martensite](https://github.com/jxoesneon/martensite) | The sovereign, retained-mode, GPU-accelerated graphical user interface engine for Rust. | Rust | 2 | 2026-09-30 |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-09-29 |
-| [Ciel](https://github.com/jxoesneon/Ciel) | Enterprise-grade autonomous partner intelligence for multi-agent software engineering. Harmonized cognitive layer with Council governance and the Iron Law of verification. | HTML | 1 | 2026-09-29 |
+| [martensite](https://github.com/jxoesneon/martensite) | The sovereign, retained-mode, GPU-accelerated graphical user interface engine for Rust. | Rust | 2 | 2026-10-01 |
+| [hyprCRD](https://github.com/jxoesneon/hyprCRD) | Native Wayland & PipeWire Host for Google Chrome Remote Desktop on Hyprland | C++ | 3 | 2026-10-01 |
+| [noctalia](https://github.com/jxoesneon/noctalia) (fork) | A sleek, customizable desktop shell crafted for Wayland. |  | 0 | 2026-10-01 |
+| [Ciel](https://github.com/jxoesneon/Ciel) | Enterprise-grade autonomous partner intelligence for multi-agent software engineering. Harmonized cognitive layer with Council governance and the Iron Law of verification. | HTML | 1 | 2026-09-30 |
+| [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | HTML | 37 | 2026-09-30 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-09-30 |
 | [ultramac-mcp](https://github.com/jxoesneon/ultramac-mcp) | The premier Model Context Protocol (MCP) server for macOS desktop automation. Enterprise-grade, secure, and fully verified. | TypeScript | 0 | 2026-09-29 |
-| [hyprCRD](https://github.com/jxoesneon/hyprCRD) | Native Wayland & PipeWire Host for Google Chrome Remote Desktop on Hyprland | C++ | 3 | 2026-09-26 |
 | [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 11 | 2026-09-23 |
 | [rustybuzz](https://github.com/jxoesneon/rustybuzz) (fork) | A complete harfbuzz's shaping algorithm port to Rust |  | 0 | 2026-09-22 |
 | [aura-nx](https://github.com/jxoesneon/aura-nx) |  | TypeScript | 1 | 2026-09-22 |
@@ -130,7 +132,6 @@ Public repositories: **50**
 | [FerroUI](https://github.com/jxoesneon/FerroUI) |  | TypeScript | 0 | 2026-09-18 |
 | [ultranix-mcp](https://github.com/jxoesneon/ultranix-mcp) | Rust MCP server for Linux desktop automation — Wayland/Hyprland-first, UltraWin skeleton, UltraMac surface | Rust | 0 | 2026-09-17 |
 | [vibeveil](https://github.com/jxoesneon/vibeveil) |  | Rust | 0 | 2026-09-16 |
-| [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | HTML | 38 | 2026-09-13 |
 | [fluttergems](https://github.com/jxoesneon/fluttergems) (fork) | The community contribution repo to add new packages & Flutter projects to Flutter Gems, a curated list of Dart & Flutter packages |  | 0 | 2026-09-13 |
 | [hermes-ciel-theme](https://github.com/jxoesneon/hermes-ciel-theme) | Official Ciel skin for Hermes Agent CLI — Cosmic void, ice-cyan circle-light, white robe, crimson gaze. | Python | 0 | 2026-09-12 |
 | [FerroTeX](https://github.com/jxoesneon/FerroTeX) | FerroTeX: research-driven LaTeX language platform + TeX build observability (docs/spec-first). | Rust | 3 | 2026-09-11 |
