@@ -110,10 +110,10 @@ Public repositories: **51**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-10-04 |
+| [martensite](https://github.com/jxoesneon/martensite) | The sovereign, retained-mode, GPU-accelerated graphical user interface engine for Rust. | Rust | 1 | 2026-10-06 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-10-05 |
 | [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | HTML | 37 | 2026-10-03 |
 | [Ciel](https://github.com/jxoesneon/Ciel) | Enterprise-grade autonomous partner intelligence for multi-agent software engineering. Harmonized cognitive layer with Council governance and the Iron Law of verification. | HTML | 1 | 2026-10-03 |
-| [martensite](https://github.com/jxoesneon/martensite) | The sovereign, retained-mode, GPU-accelerated graphical user interface engine for Rust. | Rust | 1 | 2026-10-03 |
 | [ultramac-mcp](https://github.com/jxoesneon/ultramac-mcp) | The premier Model Context Protocol (MCP) server for macOS desktop automation. Enterprise-grade, secure, and fully verified. | TypeScript | 0 | 2026-10-03 |
 | [hyprCRD](https://github.com/jxoesneon/hyprCRD) | Native Wayland & PipeWire Host for Google Chrome Remote Desktop on Hyprland | C++ | 3 | 2026-10-01 |
 | [noctalia](https://github.com/jxoesneon/noctalia) (fork) | A sleek, customizable desktop shell crafted for Wayland. |  | 0 | 2026-10-01 |
