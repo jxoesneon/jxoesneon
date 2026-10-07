@@ -30,12 +30,12 @@
 
 | Project | Version | Description |
 | :------ | :------ | :---------- |
+| **[hyprCRD](https://github.com/jxoesneon/hyprCRD)** | `v1.0.0` | v1.0.0 |
 | **[martensite](https://github.com/jxoesneon/martensite)** | `v0.20.1` | v0.20.1 |
 | **[Ciel](https://github.com/jxoesneon/Ciel)** | `v1.2.0` | Ciel v1.2.0 |
 | **[IPFS](https://github.com/jxoesneon/IPFS)** | `v1.19.0` | v1.19.0 |
 | **[tycho](https://github.com/jxoesneon/tycho)** | `v0.3.0` | v0.3.0 |
 | **[ultramac-mcp](https://github.com/jxoesneon/ultramac-mcp)** | `v1.1.0` | v1.1.0 — Element-Semantic Actions & Targeting |
-| **[ultranix-mcp](https://github.com/jxoesneon/ultranix-mcp)** | `v1.4.0` | v1.4.0 |
 
 <!-- END LATEST_RELEASES -->
 
@@ -110,12 +110,12 @@ Public repositories: **51**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
-| [martensite](https://github.com/jxoesneon/martensite) | The sovereign, retained-mode, GPU-accelerated graphical user interface engine for Rust. | Rust | 1 | 2026-10-06 |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-10-05 |
+| [martensite](https://github.com/jxoesneon/martensite) | The sovereign, retained-mode, GPU-accelerated graphical user interface engine for Rust. | Rust | 1 | 2026-10-07 |
+| [Ciel](https://github.com/jxoesneon/Ciel) | Enterprise-grade autonomous partner intelligence for multi-agent software engineering. Harmonized cognitive layer with Council governance and the Iron Law of verification. | Python | 1 | 2026-10-07 |
+| [hyprCRD](https://github.com/jxoesneon/hyprCRD) | Native Wayland & PipeWire Host for Google Chrome Remote Desktop on Hyprland | Python | 3 | 2026-10-07 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-10-06 |
 | [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | HTML | 37 | 2026-10-03 |
-| [Ciel](https://github.com/jxoesneon/Ciel) | Enterprise-grade autonomous partner intelligence for multi-agent software engineering. Harmonized cognitive layer with Council governance and the Iron Law of verification. | HTML | 1 | 2026-10-03 |
 | [ultramac-mcp](https://github.com/jxoesneon/ultramac-mcp) | The premier Model Context Protocol (MCP) server for macOS desktop automation. Enterprise-grade, secure, and fully verified. | TypeScript | 0 | 2026-10-03 |
-| [hyprCRD](https://github.com/jxoesneon/hyprCRD) | Native Wayland & PipeWire Host for Google Chrome Remote Desktop on Hyprland | C++ | 3 | 2026-10-01 |
 | [noctalia](https://github.com/jxoesneon/noctalia) (fork) | A sleek, customizable desktop shell crafted for Wayland. |  | 0 | 2026-10-01 |
 | [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 11 | 2026-09-23 |
 | [rustybuzz](https://github.com/jxoesneon/rustybuzz) (fork) | A complete harfbuzz's shaping algorithm port to Rust |  | 0 | 2026-09-22 |
