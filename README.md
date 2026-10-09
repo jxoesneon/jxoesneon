@@ -111,28 +111,29 @@ Public repositories: **68**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
-| [soundcraft](https://github.com/jxoesneon/soundcraft) (fork) | An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust | Rust | 0 | 2026-10-08 |
-| [gridcraft](https://github.com/jxoesneon/gridcraft) (fork) | GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft. | Rust | 0 | 2026-10-08 |
-| [cadcraft](https://github.com/jxoesneon/cadcraft) (fork) | CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust | Rust | 0 | 2026-10-08 |
-| [wordcraft](https://github.com/jxoesneon/wordcraft) (fork) | An open-source, clean-room reimplementation of Microsoft Word in pure Rust | Rust | 0 | 2026-10-08 |
-| [filmcraft](https://github.com/jxoesneon/filmcraft) (fork) | An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust. | Rust | 0 | 2026-10-08 |
-| [pdfcraft](https://github.com/jxoesneon/pdfcraft) (fork) | An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust | Rust | 0 | 2026-10-08 |
-| [vectorcraft](https://github.com/jxoesneon/vectorcraft) (fork) | An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust. | Rust | 0 | 2026-10-08 |
-| [designcraft](https://github.com/jxoesneon/designcraft) (fork) |  | Rust | 0 | 2026-10-08 |
-| [lightcraft](https://github.com/jxoesneon/lightcraft) (fork) | An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust. | Rust | 0 | 2026-10-08 |
-| [effectcraft](https://github.com/jxoesneon/effectcraft) (fork) |  | Rust | 0 | 2026-10-08 |
-| [photocraft](https://github.com/jxoesneon/photocraft) (fork) | An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust | Rust | 0 | 2026-10-08 |
+| [photocraft](https://github.com/jxoesneon/photocraft) (fork) | An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust | Rust | 0 | 2026-10-09 |
+| [MindWeave](https://github.com/jxoesneon/MindWeave) | Open-source brainwave entrainment & binaural beats platform — enterprise architecture, neuroacoustic DSP specifications, and Flutter client design. | Dart | 1 | 2026-10-08 |
 | [martensite](https://github.com/jxoesneon/martensite) | The sovereign, retained-mode, GPU-accelerated graphical user interface engine for Rust. | Rust | 1 | 2026-10-08 |
-| [deckcraft](https://github.com/jxoesneon/deckcraft) (fork) | Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps. | Rust | 0 | 2026-10-08 |
-| [craft-fonts](https://github.com/jxoesneon/craft-fonts) (fork) | Fonts for the Crafting Apps | Rust | 0 | 2026-10-08 |
+| [wordcraft](https://github.com/jxoesneon/wordcraft) (fork) | An open-source, clean-room reimplementation of Microsoft Word in pure Rust | Rust | 0 | 2026-10-08 |
+| [designcraft](https://github.com/jxoesneon/designcraft) (fork) |  | Rust | 0 | 2026-10-08 |
+| [filmcraft](https://github.com/jxoesneon/filmcraft) (fork) | An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust. | Rust | 0 | 2026-10-08 |
+| [effectcraft](https://github.com/jxoesneon/effectcraft) (fork) |  | Rust | 0 | 2026-10-08 |
 | [artcraft-services](https://github.com/jxoesneon/artcraft-services) (fork) | backend, web frontend, etc. | Rust | 0 | 2026-10-08 |
+| [pdfcraft](https://github.com/jxoesneon/pdfcraft) (fork) | An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust | Rust | 0 | 2026-10-08 |
+| [deckcraft](https://github.com/jxoesneon/deckcraft) (fork) | Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps. | Rust | 0 | 2026-10-08 |
+| [lightcraft](https://github.com/jxoesneon/lightcraft) (fork) | An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust. | Rust | 0 | 2026-10-08 |
+| [vectorcraft](https://github.com/jxoesneon/vectorcraft) (fork) | An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust. | Rust | 0 | 2026-10-08 |
+| [cadcraft](https://github.com/jxoesneon/cadcraft) (fork) | CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust | Rust | 0 | 2026-10-08 |
+| [gridcraft](https://github.com/jxoesneon/gridcraft) (fork) | GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft. | Rust | 0 | 2026-10-08 |
+| [soundcraft](https://github.com/jxoesneon/soundcraft) (fork) | An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust | Rust | 0 | 2026-10-08 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-10-08 |
+| [craft-fonts](https://github.com/jxoesneon/craft-fonts) (fork) | Fonts for the Crafting Apps | Rust | 0 | 2026-10-08 |
 | [artcraftx](https://github.com/jxoesneon/artcraftx) (fork) | ArtCraft-X | Rust | 0 | 2026-10-08 |
 | [artcraft](https://github.com/jxoesneon/artcraft) (fork) | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers | Rust | 0 | 2026-10-08 |
 | [Ciel](https://github.com/jxoesneon/Ciel) | Enterprise-grade autonomous partner intelligence for multi-agent software engineering. Harmonized cognitive layer with Council governance and the Iron Law of verification. | Python | 1 | 2026-10-08 |
 | [laya](https://github.com/jxoesneon/laya) (fork) | Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request. |  | 0 | 2026-10-07 |
 | [jxoesneon.github.io](https://github.com/jxoesneon/jxoesneon.github.io) | Cyberpunk engineering portfolio & interactive AI terminal showcase featuring projects across AI agents, systems programming, and P2P networks. | JavaScript | 0 | 2026-10-07 |
 | [BioGenesis-X](https://github.com/jxoesneon/BioGenesis-X) | AAA 3D biopunk starship builder and void-flight combat simulator built with Godot 4.7.1. Real-scale universe, procedural generation, living ship systems, 6-DOF Newtonian flight, and hardware-aware performance optimization. | GDScript | 1 | 2026-10-07 |
-| [MindWeave](https://github.com/jxoesneon/MindWeave) | Open-source brainwave entrainment & binaural beats platform — enterprise architecture, neuroacoustic DSP specifications, and Flutter client design. | Dart | 0 | 2026-10-07 |
 | [pynance](https://github.com/jxoesneon/pynance) | Algorithmic trading prediction framework and financial time-series analysis engine utilizing machine learning in Python. | Python | 0 | 2026-10-07 |
 | [pychem](https://github.com/jxoesneon/pychem) | Computational chemistry suite in Python for molecular property calculations, stoichiometry balancing, and chemical data analysis. |  | 0 | 2026-10-07 |
 | [EvoSim](https://github.com/jxoesneon/EvoSim) | Artificial life simulation engine in TypeScript combining neural network brains, physics, genetics, and natural selection ecosystems. | TypeScript | 0 | 2026-10-07 |
@@ -148,7 +149,6 @@ Public repositories: **68**
 | [Alexandria](https://github.com/jxoesneon/Alexandria) | Local-first decentralized digital library and knowledge preservation vault built with Flutter, IPFS, client-side AES-256-GCM, and Tor routing. | Dart | 0 | 2026-10-07 |
 | [ipfs_libp2p](https://github.com/jxoesneon/ipfs_libp2p) | Production-grade, modular libp2p networking stack implemented in pure Dart, powering decentralized IPFS nodes and P2P protocols. | Dart | 0 | 2026-10-07 |
 | [aura-nx](https://github.com/jxoesneon/aura-nx) | Enterprise Model Context Protocol (MCP) server for AAA Nintendo Switch (NX) development, console debugging, and runtime telemetry. | TypeScript | 1 | 2026-10-07 |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-10-07 |
 | [hyprCRD](https://github.com/jxoesneon/hyprCRD) | Native Wayland & PipeWire Host for Google Chrome Remote Desktop on Hyprland | Python | 3 | 2026-10-07 |
 | [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | HTML | 37 | 2026-10-03 |
 | [ultramac-mcp](https://github.com/jxoesneon/ultramac-mcp) | The premier Model Context Protocol (MCP) server for macOS desktop automation. Enterprise-grade, secure, and fully verified. | TypeScript | 0 | 2026-10-03 |
