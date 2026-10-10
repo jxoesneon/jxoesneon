@@ -111,9 +111,10 @@ Public repositories: **68**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
-| [photocraft](https://github.com/jxoesneon/photocraft) (fork) | An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust | Rust | 0 | 2026-10-09 |
+| [martensite](https://github.com/jxoesneon/martensite) | The sovereign, retained-mode, GPU-accelerated graphical user interface engine for Rust. | Rust | 1 | 2026-10-10 |
+| [photocraft](https://github.com/jxoesneon/photocraft) (fork) | An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust | Rust | 0 | 2026-10-10 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-10-09 |
 | [MindWeave](https://github.com/jxoesneon/MindWeave) | Open-source brainwave entrainment & binaural beats platform — enterprise architecture, neuroacoustic DSP specifications, and Flutter client design. | Dart | 1 | 2026-10-08 |
-| [martensite](https://github.com/jxoesneon/martensite) | The sovereign, retained-mode, GPU-accelerated graphical user interface engine for Rust. | Rust | 1 | 2026-10-08 |
 | [wordcraft](https://github.com/jxoesneon/wordcraft) (fork) | An open-source, clean-room reimplementation of Microsoft Word in pure Rust | Rust | 0 | 2026-10-08 |
 | [designcraft](https://github.com/jxoesneon/designcraft) (fork) |  | Rust | 0 | 2026-10-08 |
 | [filmcraft](https://github.com/jxoesneon/filmcraft) (fork) | An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust. | Rust | 0 | 2026-10-08 |
@@ -126,7 +127,6 @@ Public repositories: **68**
 | [cadcraft](https://github.com/jxoesneon/cadcraft) (fork) | CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust | Rust | 0 | 2026-10-08 |
 | [gridcraft](https://github.com/jxoesneon/gridcraft) (fork) | GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft. | Rust | 0 | 2026-10-08 |
 | [soundcraft](https://github.com/jxoesneon/soundcraft) (fork) | An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust | Rust | 0 | 2026-10-08 |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-10-08 |
 | [craft-fonts](https://github.com/jxoesneon/craft-fonts) (fork) | Fonts for the Crafting Apps | Rust | 0 | 2026-10-08 |
 | [artcraftx](https://github.com/jxoesneon/artcraftx) (fork) | ArtCraft-X | Rust | 0 | 2026-10-08 |
 | [artcraft](https://github.com/jxoesneon/artcraft) (fork) | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers | Rust | 0 | 2026-10-08 |
