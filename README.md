@@ -111,6 +111,8 @@ Public repositories: **68**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
+| [Ciel](https://github.com/jxoesneon/Ciel) | Enterprise-grade autonomous partner intelligence for multi-agent software engineering. Harmonized cognitive layer with Council governance and the Iron Law of verification. | Python | 1 | 2026-10-12 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-10-12 |
 | [photocraft](https://github.com/jxoesneon/photocraft) (fork) | An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust | Rust | 0 | 2026-10-12 |
 | [martensite](https://github.com/jxoesneon/martensite) | The sovereign, retained-mode, GPU-accelerated graphical user interface engine for Rust. | Rust | 2 | 2026-10-12 |
 | [tectonic](https://github.com/jxoesneon/tectonic) (fork) | A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive. | C | 1 | 2026-10-11 |
@@ -119,8 +121,8 @@ Public repositories: **68**
 | [BioGenesis](https://github.com/jxoesneon/BioGenesis) | Procedural 3D biopunk living-ship construction engine in Three.js — synthesize, mutate, and pilot void-fauna with vascular and chitin systems. | TypeScript | 0 | 2026-10-11 |
 | [Alexandria](https://github.com/jxoesneon/Alexandria) | Local-first decentralized digital library and knowledge preservation vault built with Flutter, IPFS, client-side AES-256-GCM, and Tor routing. | Dart | 0 | 2026-10-11 |
 | [aura-nx](https://github.com/jxoesneon/aura-nx) | Enterprise Model Context Protocol (MCP) server for AAA Nintendo Switch (NX) development, console debugging, and runtime telemetry. | TypeScript | 1 | 2026-10-11 |
-| [.github](https://github.com/jxoesneon/.github) |  |  | 0 | 2026-10-11 |
 | [Dall-E-3-Client](https://github.com/jxoesneon/Dall-E-3-Client) | Full-featured Flask web interface and client pipeline for OpenAI DALL-E 3 image generation with secured API routing and prompt management. | Python | 0 | 2026-10-11 |
+| [.github](https://github.com/jxoesneon/.github) |  |  | 0 | 2026-10-11 |
 | [Faithful-HD2D](https://github.com/jxoesneon/Faithful-HD2D) | Retro-modern HD-2D game rendering engine & canvas built with React 19, Pixi.js, Simplex noise terrain generation, and Gemini AI integration. | TypeScript | 0 | 2026-10-11 |
 | [MindWeave](https://github.com/jxoesneon/MindWeave) | Open-source brainwave entrainment & binaural beats platform — enterprise architecture, neuroacoustic DSP specifications, and Flutter client design. | Dart | 1 | 2026-10-11 |
 | [jxoesneon.github.io](https://github.com/jxoesneon/jxoesneon.github.io) | Cyberpunk engineering portfolio & interactive AI terminal showcase featuring projects across AI agents, systems programming, and P2P networks. | JavaScript | 0 | 2026-10-11 |
@@ -131,7 +133,6 @@ Public repositories: **68**
 | [gemini-audio-mcp](https://github.com/jxoesneon/gemini-audio-mcp) | A high-performance Model Context Protocol (MCP) server in Rust that generates infinite, context-aware environmental soundscapes and professional audio using Gemini 2.0 Multimodal Live API. | Rust | 0 | 2026-10-11 |
 | [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 12 | 2026-10-11 |
 | [ultranix-mcp](https://github.com/jxoesneon/ultranix-mcp) | Rust MCP server for Linux desktop automation — Wayland/Hyprland-first, UltraWin skeleton, UltraMac surface | Rust | 1 | 2026-10-11 |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-10-11 |
 | [wordcraft](https://github.com/jxoesneon/wordcraft) (fork) | An open-source, clean-room reimplementation of Microsoft Word in pure Rust | Rust | 0 | 2026-10-08 |
 | [designcraft](https://github.com/jxoesneon/designcraft) (fork) |  | Rust | 0 | 2026-10-08 |
 | [filmcraft](https://github.com/jxoesneon/filmcraft) (fork) | An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust. | Rust | 0 | 2026-10-08 |
@@ -147,7 +148,6 @@ Public repositories: **68**
 | [craft-fonts](https://github.com/jxoesneon/craft-fonts) (fork) | Fonts for the Crafting Apps | Rust | 0 | 2026-10-08 |
 | [artcraftx](https://github.com/jxoesneon/artcraftx) (fork) | ArtCraft-X | Rust | 0 | 2026-10-08 |
 | [artcraft](https://github.com/jxoesneon/artcraft) (fork) | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers | Rust | 0 | 2026-10-08 |
-| [Ciel](https://github.com/jxoesneon/Ciel) | Enterprise-grade autonomous partner intelligence for multi-agent software engineering. Harmonized cognitive layer with Council governance and the Iron Law of verification. | Python | 1 | 2026-10-08 |
 | [laya](https://github.com/jxoesneon/laya) (fork) | Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request. |  | 0 | 2026-10-07 |
 | [pychem](https://github.com/jxoesneon/pychem) | Computational chemistry suite in Python for molecular property calculations, stoichiometry balancing, and chemical data analysis. |  | 0 | 2026-10-07 |
 | [e2csv](https://github.com/jxoesneon/e2csv) | Webex Teams automation bot to extract, validate, deduplicate, and export batch email lists into structured CSV datasets. |  | 0 | 2026-10-07 |
