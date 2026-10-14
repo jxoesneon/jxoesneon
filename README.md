@@ -30,12 +30,12 @@
 
 | Project | Version | Description |
 | :------ | :------ | :---------- |
+| **[ogma](https://github.com/jxoesneon/ogma)** | `v1.0.0` | Ogma (ogma-rs) v1.0.0 — 30-D Human Writing Shape Engine |
 | **[martensite](https://github.com/jxoesneon/martensite)** | `v0.22.0` | v0.22.0 |
 | **[Ciel](https://github.com/jxoesneon/Ciel)** | `v1.3.0` | Ciel v1.3.0 |
 | **[hyprCRD](https://github.com/jxoesneon/hyprCRD)** | `v1.0.0` | v1.0.0 |
 | **[IPFS](https://github.com/jxoesneon/IPFS)** | `v1.19.0` | v1.19.0 |
 | **[tycho](https://github.com/jxoesneon/tycho)** | `v0.3.0` | v0.3.0 |
-| **[ultramac-mcp](https://github.com/jxoesneon/ultramac-mcp)** | `v1.1.0` | v1.1.0 — Element-Semantic Actions & Targeting |
 
 <!-- END LATEST_RELEASES -->
 
@@ -107,12 +107,13 @@ I'm focused on delivering a high-quality **IPFS** ecosystem for Dart/Flutter on 
 ## 📚 Public Repositories
 <!-- BEGIN PUBLIC_REPOS -->
 
-Public repositories: **68**
+Public repositories: **69**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
+| [ogma](https://github.com/jxoesneon/ogma) | Sub-millisecond 30-D structural manifold analysis and multi-pass course-correction engine for AI harnesses (StoryScope + SlopShape) | Rust | 0 | 2026-10-14 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-10-13 |
 | [Ciel](https://github.com/jxoesneon/Ciel) | Enterprise-grade autonomous partner intelligence for multi-agent software engineering. Harmonized cognitive layer with Council governance and the Iron Law of verification. | Python | 1 | 2026-10-12 |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-10-12 |
 | [photocraft](https://github.com/jxoesneon/photocraft) (fork) | An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust | Rust | 0 | 2026-10-12 |
 | [martensite](https://github.com/jxoesneon/martensite) | The sovereign, retained-mode, GPU-accelerated graphical user interface engine for Rust. | Rust | 2 | 2026-10-12 |
 | [tectonic](https://github.com/jxoesneon/tectonic) (fork) | A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive. | C | 1 | 2026-10-11 |
@@ -121,8 +122,8 @@ Public repositories: **68**
 | [BioGenesis](https://github.com/jxoesneon/BioGenesis) | Procedural 3D biopunk living-ship construction engine in Three.js — synthesize, mutate, and pilot void-fauna with vascular and chitin systems. | TypeScript | 0 | 2026-10-11 |
 | [Alexandria](https://github.com/jxoesneon/Alexandria) | Local-first decentralized digital library and knowledge preservation vault built with Flutter, IPFS, client-side AES-256-GCM, and Tor routing. | Dart | 0 | 2026-10-11 |
 | [aura-nx](https://github.com/jxoesneon/aura-nx) | Enterprise Model Context Protocol (MCP) server for AAA Nintendo Switch (NX) development, console debugging, and runtime telemetry. | TypeScript | 1 | 2026-10-11 |
-| [Dall-E-3-Client](https://github.com/jxoesneon/Dall-E-3-Client) | Full-featured Flask web interface and client pipeline for OpenAI DALL-E 3 image generation with secured API routing and prompt management. | Python | 0 | 2026-10-11 |
 | [.github](https://github.com/jxoesneon/.github) |  |  | 0 | 2026-10-11 |
+| [Dall-E-3-Client](https://github.com/jxoesneon/Dall-E-3-Client) | Full-featured Flask web interface and client pipeline for OpenAI DALL-E 3 image generation with secured API routing and prompt management. | Python | 0 | 2026-10-11 |
 | [Faithful-HD2D](https://github.com/jxoesneon/Faithful-HD2D) | Retro-modern HD-2D game rendering engine & canvas built with React 19, Pixi.js, Simplex noise terrain generation, and Gemini AI integration. | TypeScript | 0 | 2026-10-11 |
 | [MindWeave](https://github.com/jxoesneon/MindWeave) | Open-source brainwave entrainment & binaural beats platform — enterprise architecture, neuroacoustic DSP specifications, and Flutter client design. | Dart | 1 | 2026-10-11 |
 | [jxoesneon.github.io](https://github.com/jxoesneon/jxoesneon.github.io) | Cyberpunk engineering portfolio & interactive AI terminal showcase featuring projects across AI agents, systems programming, and P2P networks. | JavaScript | 0 | 2026-10-11 |
