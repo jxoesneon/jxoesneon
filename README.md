@@ -111,8 +111,8 @@ Public repositories: **69**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-10-15 |
 | [ogma](https://github.com/jxoesneon/ogma) | Sub-millisecond 30-D structural manifold analysis and multi-pass course-correction engine for AI harnesses (StoryScope + SlopShape) | Rust | 0 | 2026-10-15 |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-10-14 |
 | [Ciel](https://github.com/jxoesneon/Ciel) | Enterprise-grade autonomous partner intelligence for multi-agent software engineering. Harmonized cognitive layer with Council governance and the Iron Law of verification. | Python | 1 | 2026-10-12 |
 | [photocraft](https://github.com/jxoesneon/photocraft) (fork) | An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust | Rust | 0 | 2026-10-12 |
 | [martensite](https://github.com/jxoesneon/martensite) | The sovereign, retained-mode, GPU-accelerated graphical user interface engine for Rust. | Rust | 2 | 2026-10-12 |
