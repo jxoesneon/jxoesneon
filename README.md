@@ -68,7 +68,7 @@ I build **Model Context Protocol (MCP)** servers to bridge AI agents with powerf
 ### [mempalace-rs](https://github.com/jxoesneon/mempalace-rs)
 
 > A high-performance, local, offline-first AI memory system built in Rust
-> _HTML • 37★_
+> _HTML • 38★_
 
 ### [IPFS](https://github.com/jxoesneon/IPFS)
 
@@ -111,22 +111,23 @@ Public repositories: **69**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-10-19 |
+| [martensite](https://github.com/jxoesneon/martensite) | The sovereign, retained-mode, GPU-accelerated graphical user interface engine for Rust. | Rust | 2 | 2026-10-21 |
+| [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | HTML | 38 | 2026-10-20 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-10-20 |
 | [Ciel](https://github.com/jxoesneon/Ciel) | Enterprise-grade autonomous partner intelligence for multi-agent software engineering. Harmonized cognitive layer with Council governance and the Iron Law of verification. | Python | 1 | 2026-10-18 |
 | [ogma](https://github.com/jxoesneon/ogma) | Sub-millisecond 30-D structural manifold analysis and multi-pass course-correction engine for AI harnesses (StoryScope + SlopShape) | Rust | 0 | 2026-10-15 |
 | [photocraft](https://github.com/jxoesneon/photocraft) (fork) | An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust | Rust | 0 | 2026-10-12 |
-| [martensite](https://github.com/jxoesneon/martensite) | The sovereign, retained-mode, GPU-accelerated graphical user interface engine for Rust. | Rust | 2 | 2026-10-12 |
 | [tectonic](https://github.com/jxoesneon/tectonic) (fork) | A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive. | C | 1 | 2026-10-11 |
 | [EvoSim](https://github.com/jxoesneon/EvoSim) | Artificial life simulation engine in TypeScript combining neural network brains, physics, genetics, and natural selection ecosystems. | TypeScript | 0 | 2026-10-11 |
 | [BioGenesis-X](https://github.com/jxoesneon/BioGenesis-X) | AAA 3D biopunk starship builder and void-flight combat simulator built with Godot 4.7.1. Real-scale universe, procedural generation, living ship systems, 6-DOF Newtonian flight, and hardware-aware performance optimization. | GDScript | 1 | 2026-10-11 |
 | [BioGenesis](https://github.com/jxoesneon/BioGenesis) | Procedural 3D biopunk living-ship construction engine in Three.js — synthesize, mutate, and pilot void-fauna with vascular and chitin systems. | TypeScript | 0 | 2026-10-11 |
 | [Alexandria](https://github.com/jxoesneon/Alexandria) | Local-first decentralized digital library and knowledge preservation vault built with Flutter, IPFS, client-side AES-256-GCM, and Tor routing. | Dart | 0 | 2026-10-11 |
 | [aura-nx](https://github.com/jxoesneon/aura-nx) | Enterprise Model Context Protocol (MCP) server for AAA Nintendo Switch (NX) development, console debugging, and runtime telemetry. | TypeScript | 1 | 2026-10-11 |
-| [.github](https://github.com/jxoesneon/.github) |  |  | 0 | 2026-10-11 |
 | [Dall-E-3-Client](https://github.com/jxoesneon/Dall-E-3-Client) | Full-featured Flask web interface and client pipeline for OpenAI DALL-E 3 image generation with secured API routing and prompt management. | Python | 0 | 2026-10-11 |
+| [.github](https://github.com/jxoesneon/.github) |  |  | 0 | 2026-10-11 |
 | [Faithful-HD2D](https://github.com/jxoesneon/Faithful-HD2D) | Retro-modern HD-2D game rendering engine & canvas built with React 19, Pixi.js, Simplex noise terrain generation, and Gemini AI integration. | TypeScript | 0 | 2026-10-11 |
-| [MindWeave](https://github.com/jxoesneon/MindWeave) | Open-source brainwave entrainment & binaural beats platform — enterprise architecture, neuroacoustic DSP specifications, and Flutter client design. | Dart | 1 | 2026-10-11 |
 | [jxoesneon.github.io](https://github.com/jxoesneon/jxoesneon.github.io) | Cyberpunk engineering portfolio & interactive AI terminal showcase featuring projects across AI agents, systems programming, and P2P networks. | JavaScript | 0 | 2026-10-11 |
+| [MindWeave](https://github.com/jxoesneon/MindWeave) | Open-source brainwave entrainment & binaural beats platform — enterprise architecture, neuroacoustic DSP specifications, and Flutter client design. | Dart | 1 | 2026-10-11 |
 | [pynance](https://github.com/jxoesneon/pynance) | Algorithmic trading prediction framework and financial time-series analysis engine utilizing machine learning in Python. | Python | 0 | 2026-10-11 |
 | [UltraWin-MCP](https://github.com/jxoesneon/UltraWin-MCP) | High-performance Rust MCP server for Windows desktop automation, native accessibility tree navigation, and system-level LLM orchestration. | Rust | 0 | 2026-10-11 |
 | [oxidelink](https://github.com/jxoesneon/oxidelink) | Nintendo Switch controller remapping for Windows — Tauri 2 + Vite + ViGEmBus + HidHide + gyro mouse + flick stick + amiibo + macros | Rust | 0 | 2026-10-11 |
@@ -157,7 +158,6 @@ Public repositories: **69**
 | [FerroUI](https://github.com/jxoesneon/FerroUI) | AI-powered, server-driven UI meta-framework engineered for declarative component streaming and high-performance cross-platform rendering. | TypeScript | 0 | 2026-10-07 |
 | [ipfs_libp2p](https://github.com/jxoesneon/ipfs_libp2p) | Production-grade, modular libp2p networking stack implemented in pure Dart, powering decentralized IPFS nodes and P2P protocols. | Dart | 0 | 2026-10-07 |
 | [hyprCRD](https://github.com/jxoesneon/hyprCRD) | Native Wayland & PipeWire Host for Google Chrome Remote Desktop on Hyprland | Python | 3 | 2026-10-07 |
-| [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | HTML | 37 | 2026-10-03 |
 | [ultramac-mcp](https://github.com/jxoesneon/ultramac-mcp) | The premier Model Context Protocol (MCP) server for macOS desktop automation. Enterprise-grade, secure, and fully verified. | TypeScript | 0 | 2026-10-03 |
 | [noctalia](https://github.com/jxoesneon/noctalia) (fork) | A sleek, customizable desktop shell crafted for Wayland. |  | 0 | 2026-10-01 |
 | [rustybuzz](https://github.com/jxoesneon/rustybuzz) (fork) | A complete harfbuzz's shaping algorithm port to Rust |  | 0 | 2026-09-22 |
