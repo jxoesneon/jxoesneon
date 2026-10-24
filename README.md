@@ -111,7 +111,9 @@ Public repositories: **69**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 0 | 2026-10-22 |
+| [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 12 | 2026-10-24 |
+| [ipfs_libp2p](https://github.com/jxoesneon/ipfs_libp2p) | Production-grade, modular libp2p networking stack implemented in pure Dart, powering decentralized IPFS nodes and P2P protocols. | Dart | 0 | 2026-10-24 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 1 | 2026-10-23 |
 | [martensite](https://github.com/jxoesneon/martensite) | The sovereign, retained-mode, GPU-accelerated graphical user interface engine for Rust. | Rust | 2 | 2026-10-21 |
 | [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | HTML | 38 | 2026-10-20 |
 | [Ciel](https://github.com/jxoesneon/Ciel) | Enterprise-grade autonomous partner intelligence for multi-agent software engineering. Harmonized cognitive layer with Council governance and the Iron Law of verification. | Python | 1 | 2026-10-18 |
@@ -126,14 +128,13 @@ Public repositories: **69**
 | [Dall-E-3-Client](https://github.com/jxoesneon/Dall-E-3-Client) | Full-featured Flask web interface and client pipeline for OpenAI DALL-E 3 image generation with secured API routing and prompt management. | Python | 0 | 2026-10-11 |
 | [.github](https://github.com/jxoesneon/.github) |  |  | 0 | 2026-10-11 |
 | [Faithful-HD2D](https://github.com/jxoesneon/Faithful-HD2D) | Retro-modern HD-2D game rendering engine & canvas built with React 19, Pixi.js, Simplex noise terrain generation, and Gemini AI integration. | TypeScript | 0 | 2026-10-11 |
-| [jxoesneon.github.io](https://github.com/jxoesneon/jxoesneon.github.io) | Cyberpunk engineering portfolio & interactive AI terminal showcase featuring projects across AI agents, systems programming, and P2P networks. | JavaScript | 0 | 2026-10-11 |
 | [MindWeave](https://github.com/jxoesneon/MindWeave) | Open-source brainwave entrainment & binaural beats platform — enterprise architecture, neuroacoustic DSP specifications, and Flutter client design. | Dart | 1 | 2026-10-11 |
+| [jxoesneon.github.io](https://github.com/jxoesneon/jxoesneon.github.io) | Cyberpunk engineering portfolio & interactive AI terminal showcase featuring projects across AI agents, systems programming, and P2P networks. | JavaScript | 0 | 2026-10-11 |
 | [pynance](https://github.com/jxoesneon/pynance) | Algorithmic trading prediction framework and financial time-series analysis engine utilizing machine learning in Python. | Python | 0 | 2026-10-11 |
 | [UltraWin-MCP](https://github.com/jxoesneon/UltraWin-MCP) | High-performance Rust MCP server for Windows desktop automation, native accessibility tree navigation, and system-level LLM orchestration. | Rust | 0 | 2026-10-11 |
 | [oxidelink](https://github.com/jxoesneon/oxidelink) | Nintendo Switch controller remapping for Windows — Tauri 2 + Vite + ViGEmBus + HidHide + gyro mouse + flick stick + amiibo + macros | Rust | 0 | 2026-10-11 |
 | [ciel-ecc](https://github.com/jxoesneon/ciel-ecc) | Execution & Coordination Core (ECC) for CIEL — deterministic autonomous agent orchestration, verification loops, and self-improving loops. | JavaScript | 0 | 2026-10-11 |
 | [gemini-audio-mcp](https://github.com/jxoesneon/gemini-audio-mcp) | A high-performance Model Context Protocol (MCP) server in Rust that generates infinite, context-aware environmental soundscapes and professional audio using Gemini 2.0 Multimodal Live API. | Rust | 0 | 2026-10-11 |
-| [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 12 | 2026-10-11 |
 | [ultranix-mcp](https://github.com/jxoesneon/ultranix-mcp) | Rust MCP server for Linux desktop automation — Wayland/Hyprland-first, UltraWin skeleton, UltraMac surface | Rust | 1 | 2026-10-11 |
 | [wordcraft](https://github.com/jxoesneon/wordcraft) (fork) | An open-source, clean-room reimplementation of Microsoft Word in pure Rust | Rust | 0 | 2026-10-08 |
 | [designcraft](https://github.com/jxoesneon/designcraft) (fork) |  | Rust | 0 | 2026-10-08 |
@@ -156,7 +157,6 @@ Public repositories: **69**
 | [hermesbot](https://github.com/jxoesneon/hermesbot) | Automated event notification bot and incident dispatch bridge for Cisco Webex Teams with scheduled webhook triggers. | Python | 0 | 2026-10-07 |
 | [vibeveil](https://github.com/jxoesneon/vibeveil) | Music-reactive dynamic wallpaper & ambient desktop theming daemon for Linux (Wayland & X11) synchronizing MPRIS audio with live shader palettes. | Rust | 0 | 2026-10-07 |
 | [FerroUI](https://github.com/jxoesneon/FerroUI) | AI-powered, server-driven UI meta-framework engineered for declarative component streaming and high-performance cross-platform rendering. | TypeScript | 0 | 2026-10-07 |
-| [ipfs_libp2p](https://github.com/jxoesneon/ipfs_libp2p) | Production-grade, modular libp2p networking stack implemented in pure Dart, powering decentralized IPFS nodes and P2P protocols. | Dart | 0 | 2026-10-07 |
 | [hyprCRD](https://github.com/jxoesneon/hyprCRD) | Native Wayland & PipeWire Host for Google Chrome Remote Desktop on Hyprland | Python | 3 | 2026-10-07 |
 | [ultramac-mcp](https://github.com/jxoesneon/ultramac-mcp) | The premier Model Context Protocol (MCP) server for macOS desktop automation. Enterprise-grade, secure, and fully verified. | TypeScript | 0 | 2026-10-03 |
 | [noctalia](https://github.com/jxoesneon/noctalia) (fork) | A sleek, customizable desktop shell crafted for Wayland. |  | 0 | 2026-10-01 |
