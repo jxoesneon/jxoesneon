@@ -111,7 +111,8 @@ Public repositories: **70**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 1 | 2026-10-30 |
+| [UltraWin-MCP](https://github.com/jxoesneon/UltraWin-MCP) | High-performance Rust MCP server for Windows desktop automation, native accessibility tree navigation, and system-level LLM orchestration. | Rust | 0 | 2026-11-01 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 1 | 2026-10-31 |
 | [dart_libp2p](https://github.com/jxoesneon/dart_libp2p) (fork) | A comprehensive Dart implementation of the libp2p networking stack with modular architecture, multiple transports (TCP/UDX), Noise security, and peer-to-peer capabilities. |  | 0 | 2026-10-24 |
 | [ipfs_libp2p](https://github.com/jxoesneon/ipfs_libp2p) | Production-grade, modular libp2p networking stack implemented in pure Dart, powering decentralized IPFS nodes and P2P protocols. | Dart | 0 | 2026-10-24 |
 | [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 12 | 2026-10-24 |
@@ -132,7 +133,6 @@ Public repositories: **70**
 | [MindWeave](https://github.com/jxoesneon/MindWeave) | Open-source brainwave entrainment & binaural beats platform — enterprise architecture, neuroacoustic DSP specifications, and Flutter client design. | Dart | 1 | 2026-10-11 |
 | [jxoesneon.github.io](https://github.com/jxoesneon/jxoesneon.github.io) | Cyberpunk engineering portfolio & interactive AI terminal showcase featuring projects across AI agents, systems programming, and P2P networks. | JavaScript | 0 | 2026-10-11 |
 | [pynance](https://github.com/jxoesneon/pynance) | Algorithmic trading prediction framework and financial time-series analysis engine utilizing machine learning in Python. | Python | 0 | 2026-10-11 |
-| [UltraWin-MCP](https://github.com/jxoesneon/UltraWin-MCP) | High-performance Rust MCP server for Windows desktop automation, native accessibility tree navigation, and system-level LLM orchestration. | Rust | 0 | 2026-10-11 |
 | [oxidelink](https://github.com/jxoesneon/oxidelink) | Nintendo Switch controller remapping for Windows — Tauri 2 + Vite + ViGEmBus + HidHide + gyro mouse + flick stick + amiibo + macros | Rust | 0 | 2026-10-11 |
 | [ciel-ecc](https://github.com/jxoesneon/ciel-ecc) | Execution & Coordination Core (ECC) for CIEL — deterministic autonomous agent orchestration, verification loops, and self-improving loops. | JavaScript | 0 | 2026-10-11 |
 | [gemini-audio-mcp](https://github.com/jxoesneon/gemini-audio-mcp) | A high-performance Model Context Protocol (MCP) server in Rust that generates infinite, context-aware environmental soundscapes and professional audio using Gemini 2.0 Multimodal Live API. | Rust | 0 | 2026-10-11 |
