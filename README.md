@@ -111,7 +111,7 @@ Public repositories: **70**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 1 | 2026-11-05 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 1 | 2026-11-06 |
 | [aura-nx](https://github.com/jxoesneon/aura-nx) | Enterprise Model Context Protocol (MCP) server for AAA Nintendo Switch (NX) development, console debugging, and runtime telemetry. | TypeScript | 2 | 2026-11-04 |
 | [UltraWin-MCP](https://github.com/jxoesneon/UltraWin-MCP) | High-performance Rust MCP server for Windows desktop automation, native accessibility tree navigation, and system-level LLM orchestration. | Rust | 0 | 2026-11-01 |
 | [dart_libp2p](https://github.com/jxoesneon/dart_libp2p) (fork) | A comprehensive Dart implementation of the libp2p networking stack with modular architecture, multiple transports (TCP/UDX), Noise security, and peer-to-peer capabilities. |  | 0 | 2026-10-24 |
