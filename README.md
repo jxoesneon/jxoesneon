@@ -68,7 +68,7 @@ I build **Model Context Protocol (MCP)** servers to bridge AI agents with powerf
 ### [mempalace-rs](https://github.com/jxoesneon/mempalace-rs)
 
 > A high-performance, local, offline-first AI memory system built in Rust
-> _HTML • 38★_
+> _HTML • 39★_
 
 ### [IPFS](https://github.com/jxoesneon/IPFS)
 
@@ -111,14 +111,15 @@ Public repositories: **70**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 1 | 2026-11-06 |
+| [oxidelink](https://github.com/jxoesneon/oxidelink) | Nintendo Switch controller remapping for Windows — Tauri 2 + Vite + ViGEmBus + HidHide + gyro mouse + flick stick + amiibo + macros | Rust | 1 | 2026-11-08 |
+| [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | HTML | 39 | 2026-11-07 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 1 | 2026-11-07 |
 | [aura-nx](https://github.com/jxoesneon/aura-nx) | Enterprise Model Context Protocol (MCP) server for AAA Nintendo Switch (NX) development, console debugging, and runtime telemetry. | TypeScript | 2 | 2026-11-04 |
 | [UltraWin-MCP](https://github.com/jxoesneon/UltraWin-MCP) | High-performance Rust MCP server for Windows desktop automation, native accessibility tree navigation, and system-level LLM orchestration. | Rust | 0 | 2026-11-01 |
 | [dart_libp2p](https://github.com/jxoesneon/dart_libp2p) (fork) | A comprehensive Dart implementation of the libp2p networking stack with modular architecture, multiple transports (TCP/UDX), Noise security, and peer-to-peer capabilities. |  | 0 | 2026-10-24 |
 | [ipfs_libp2p](https://github.com/jxoesneon/ipfs_libp2p) | Production-grade, modular libp2p networking stack implemented in pure Dart, powering decentralized IPFS nodes and P2P protocols. | Dart | 0 | 2026-10-24 |
 | [IPFS](https://github.com/jxoesneon/IPFS) | Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms. | Dart | 12 | 2026-10-24 |
 | [martensite](https://github.com/jxoesneon/martensite) | The sovereign, retained-mode, GPU-accelerated graphical user interface engine for Rust. | Rust | 2 | 2026-10-21 |
-| [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | HTML | 38 | 2026-10-20 |
 | [Ciel](https://github.com/jxoesneon/Ciel) | Enterprise-grade autonomous partner intelligence for multi-agent software engineering. Harmonized cognitive layer with Council governance and the Iron Law of verification. | Python | 1 | 2026-10-18 |
 | [ogma](https://github.com/jxoesneon/ogma) | Sub-millisecond 30-D structural manifold analysis and multi-pass course-correction engine for AI harnesses (StoryScope + SlopShape) | Rust | 0 | 2026-10-15 |
 | [photocraft](https://github.com/jxoesneon/photocraft) (fork) | An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust | Rust | 0 | 2026-10-12 |
@@ -133,7 +134,6 @@ Public repositories: **70**
 | [MindWeave](https://github.com/jxoesneon/MindWeave) | Open-source brainwave entrainment & binaural beats platform — enterprise architecture, neuroacoustic DSP specifications, and Flutter client design. | Dart | 1 | 2026-10-11 |
 | [jxoesneon.github.io](https://github.com/jxoesneon/jxoesneon.github.io) | Cyberpunk engineering portfolio & interactive AI terminal showcase featuring projects across AI agents, systems programming, and P2P networks. | JavaScript | 0 | 2026-10-11 |
 | [pynance](https://github.com/jxoesneon/pynance) | Algorithmic trading prediction framework and financial time-series analysis engine utilizing machine learning in Python. | Python | 0 | 2026-10-11 |
-| [oxidelink](https://github.com/jxoesneon/oxidelink) | Nintendo Switch controller remapping for Windows — Tauri 2 + Vite + ViGEmBus + HidHide + gyro mouse + flick stick + amiibo + macros | Rust | 0 | 2026-10-11 |
 | [ciel-ecc](https://github.com/jxoesneon/ciel-ecc) | Execution & Coordination Core (ECC) for CIEL — deterministic autonomous agent orchestration, verification loops, and self-improving loops. | JavaScript | 0 | 2026-10-11 |
 | [gemini-audio-mcp](https://github.com/jxoesneon/gemini-audio-mcp) | A high-performance Model Context Protocol (MCP) server in Rust that generates infinite, context-aware environmental soundscapes and professional audio using Gemini 2.0 Multimodal Live API. | Rust | 0 | 2026-10-11 |
 | [ultranix-mcp](https://github.com/jxoesneon/ultranix-mcp) | Rust MCP server for Linux desktop automation — Wayland/Hyprland-first, UltraWin skeleton, UltraMac surface | Rust | 1 | 2026-10-11 |
