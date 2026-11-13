@@ -111,7 +111,7 @@ Public repositories: **70**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
-| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 1 | 2026-11-11 |
+| [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 1 | 2026-11-12 |
 | [oxidelink](https://github.com/jxoesneon/oxidelink) | Nintendo Switch controller remapping for Windows — Tauri 2 + Vite + ViGEmBus + HidHide + gyro mouse + flick stick + amiibo + macros | Rust | 1 | 2026-11-08 |
 | [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | HTML | 39 | 2026-11-07 |
 | [aura-nx](https://github.com/jxoesneon/aura-nx) | Enterprise Model Context Protocol (MCP) server for AAA Nintendo Switch (NX) development, console debugging, and runtime telemetry. | TypeScript | 2 | 2026-11-04 |
