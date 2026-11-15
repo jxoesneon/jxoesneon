@@ -107,10 +107,11 @@ I'm focused on delivering a high-quality **IPFS** ecosystem for Dart/Flutter on 
 ## 📚 Public Repositories
 <!-- BEGIN PUBLIC_REPOS -->
 
-Public repositories: **70**
+Public repositories: **71**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
+| [silverwave](https://github.com/jxoesneon/silverwave) | Pure-Rust live-coding pattern, synthesis, CLAP/VST3 DAW plugin, and MCP co-performance engine (1:1+ Strudel & TidalCycles parity) |  | 0 | 2026-11-15 |
 | [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 1 | 2026-11-12 |
 | [oxidelink](https://github.com/jxoesneon/oxidelink) | Nintendo Switch controller remapping for Windows — Tauri 2 + Vite + ViGEmBus + HidHide + gyro mouse + flick stick + amiibo + macros | Rust | 1 | 2026-11-08 |
 | [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | HTML | 39 | 2026-11-07 |
