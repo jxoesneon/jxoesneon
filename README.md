@@ -111,7 +111,7 @@ Public repositories: **71**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
-| [silverwave](https://github.com/jxoesneon/silverwave) | Pure-Rust live-coding pattern, synthesis, CLAP/VST3 DAW plugin, and MCP co-performance engine (1:1+ Strudel & TidalCycles parity) |  | 0 | 2026-11-15 |
+| [silverwave](https://github.com/jxoesneon/silverwave) | Pure-Rust live-coding pattern, synthesis, CLAP/VST3 DAW plugin, and MCP co-performance engine (1:1+ Strudel & TidalCycles parity) | Rust | 0 | 2026-11-15 |
 | [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 1 | 2026-11-12 |
 | [oxidelink](https://github.com/jxoesneon/oxidelink) | Nintendo Switch controller remapping for Windows — Tauri 2 + Vite + ViGEmBus + HidHide + gyro mouse + flick stick + amiibo + macros | Rust | 1 | 2026-11-08 |
 | [mempalace-rs](https://github.com/jxoesneon/mempalace-rs) | A high-performance, local, offline-first AI memory system built in Rust | HTML | 39 | 2026-11-07 |
@@ -132,8 +132,8 @@ Public repositories: **71**
 | [Dall-E-3-Client](https://github.com/jxoesneon/Dall-E-3-Client) | Full-featured Flask web interface and client pipeline for OpenAI DALL-E 3 image generation with secured API routing and prompt management. | Python | 0 | 2026-10-11 |
 | [.github](https://github.com/jxoesneon/.github) |  |  | 0 | 2026-10-11 |
 | [Faithful-HD2D](https://github.com/jxoesneon/Faithful-HD2D) | Retro-modern HD-2D game rendering engine & canvas built with React 19, Pixi.js, Simplex noise terrain generation, and Gemini AI integration. | TypeScript | 0 | 2026-10-11 |
-| [jxoesneon.github.io](https://github.com/jxoesneon/jxoesneon.github.io) | Cyberpunk engineering portfolio & interactive AI terminal showcase featuring projects across AI agents, systems programming, and P2P networks. | JavaScript | 0 | 2026-10-11 |
 | [MindWeave](https://github.com/jxoesneon/MindWeave) | Open-source brainwave entrainment & binaural beats platform — enterprise architecture, neuroacoustic DSP specifications, and Flutter client design. | Dart | 1 | 2026-10-11 |
+| [jxoesneon.github.io](https://github.com/jxoesneon/jxoesneon.github.io) | Cyberpunk engineering portfolio & interactive AI terminal showcase featuring projects across AI agents, systems programming, and P2P networks. | JavaScript | 0 | 2026-10-11 |
 | [pynance](https://github.com/jxoesneon/pynance) | Algorithmic trading prediction framework and financial time-series analysis engine utilizing machine learning in Python. | Python | 0 | 2026-10-11 |
 | [ciel-ecc](https://github.com/jxoesneon/ciel-ecc) | Execution & Coordination Core (ECC) for CIEL — deterministic autonomous agent orchestration, verification loops, and self-improving loops. | JavaScript | 0 | 2026-10-11 |
 | [gemini-audio-mcp](https://github.com/jxoesneon/gemini-audio-mcp) | A high-performance Model Context Protocol (MCP) server in Rust that generates infinite, context-aware environmental soundscapes and professional audio using Gemini 2.0 Multimodal Live API. | Rust | 0 | 2026-10-11 |
