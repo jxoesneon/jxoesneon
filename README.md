@@ -111,6 +111,7 @@ Public repositories: **71**
 
 | Repo | Description | Lang | Stars | Updated |
 | :--- | :---------- | :--- | ----: | :------ |
+| [FerroTeX](https://github.com/jxoesneon/FerroTeX) | FerroTeX: research-driven LaTeX language platform + TeX build observability (docs/spec-first). | Rust | 4 | 2026-11-24 |
 | [hyprCRD](https://github.com/jxoesneon/hyprCRD) | Native Wayland & PipeWire Host for Google Chrome Remote Desktop on Hyprland | Python | 4 | 2026-11-16 |
 | [silverwave](https://github.com/jxoesneon/silverwave) | Pure-Rust live-coding pattern, synthesis, CLAP/VST3 DAW plugin, and MCP co-performance engine (1:1+ Strudel & TidalCycles parity) | Rust | 0 | 2026-11-15 |
 | [jxoesneon](https://github.com/jxoesneon/jxoesneon) | Personal profile for Jose Eduardo Rojas Jimenez | Python | 1 | 2026-11-12 |
@@ -130,8 +131,8 @@ Public repositories: **71**
 | [BioGenesis-X](https://github.com/jxoesneon/BioGenesis-X) | AAA 3D biopunk starship builder and void-flight combat simulator built with Godot 4.7.1. Real-scale universe, procedural generation, living ship systems, 6-DOF Newtonian flight, and hardware-aware performance optimization. | GDScript | 1 | 2026-10-11 |
 | [BioGenesis](https://github.com/jxoesneon/BioGenesis) | Procedural 3D biopunk living-ship construction engine in Three.js — synthesize, mutate, and pilot void-fauna with vascular and chitin systems. | TypeScript | 0 | 2026-10-11 |
 | [Alexandria](https://github.com/jxoesneon/Alexandria) | Local-first decentralized digital library and knowledge preservation vault built with Flutter, IPFS, client-side AES-256-GCM, and Tor routing. | Dart | 0 | 2026-10-11 |
-| [.github](https://github.com/jxoesneon/.github) |  |  | 0 | 2026-10-11 |
 | [Dall-E-3-Client](https://github.com/jxoesneon/Dall-E-3-Client) | Full-featured Flask web interface and client pipeline for OpenAI DALL-E 3 image generation with secured API routing and prompt management. | Python | 0 | 2026-10-11 |
+| [.github](https://github.com/jxoesneon/.github) |  |  | 0 | 2026-10-11 |
 | [Faithful-HD2D](https://github.com/jxoesneon/Faithful-HD2D) | Retro-modern HD-2D game rendering engine & canvas built with React 19, Pixi.js, Simplex noise terrain generation, and Gemini AI integration. | TypeScript | 0 | 2026-10-11 |
 | [MindWeave](https://github.com/jxoesneon/MindWeave) | Open-source brainwave entrainment & binaural beats platform — enterprise architecture, neuroacoustic DSP specifications, and Flutter client design. | Dart | 1 | 2026-10-11 |
 | [jxoesneon.github.io](https://github.com/jxoesneon/jxoesneon.github.io) | Cyberpunk engineering portfolio & interactive AI terminal showcase featuring projects across AI agents, systems programming, and P2P networks. | JavaScript | 0 | 2026-10-11 |
@@ -169,7 +170,6 @@ Public repositories: **71**
 | [dart_lz4](https://github.com/jxoesneon/dart_lz4) | Pure Dart LZ4 + LZ4HC (block + frame) with streaming support and pub.dev publishing via CI. | Dart | 0 | 2026-09-18 |
 | [fluttergems](https://github.com/jxoesneon/fluttergems) (fork) | The community contribution repo to add new packages & Flutter projects to Flutter Gems, a curated list of Dart & Flutter packages |  | 0 | 2026-09-13 |
 | [hermes-ciel-theme](https://github.com/jxoesneon/hermes-ciel-theme) | Official Ciel skin for Hermes Agent CLI — Cosmic void, ice-cyan circle-light, white robe, crimson gaze. | Python | 0 | 2026-09-12 |
-| [FerroTeX](https://github.com/jxoesneon/FerroTeX) | FerroTeX: research-driven LaTeX language platform + TeX build observability (docs/spec-first). | Rust | 3 | 2026-09-11 |
 | [NSPFF](https://github.com/jxoesneon/NSPFF) | High-performance native Flutter application for generating Nintendo Switch NSP forwarders (NRO & RetroArch shortcuts). | Dart | 1 | 2026-09-03 |
 | [blender-mcp](https://github.com/jxoesneon/blender-mcp) (fork) | Blender Model Context Protocol Integration - Connects Blender to Claude AI for prompt-assisted 3D modeling. | Python | 0 | 2026-08-31 |
 | [godot-mcp](https://github.com/jxoesneon/godot-mcp) (fork) | MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output. | GDScript | 0 | 2026-08-31 |
